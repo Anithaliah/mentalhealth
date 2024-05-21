@@ -1,0 +1,1013 @@
+User_ID,Date,Time,Hours_per_day,While_working,Instrumentalist,Composer,Fav_genre,Exploratory,Foreign_languages,Anxiety,Depression,Insomnia,OCD,Music_effects
+1,8/27/2022,19:29:02,3,Yes,Yes,Yes,Latin,Yes,Yes,3,0,1,0,Improve
+2,8/27/2022,19:57:31,1.5,Yes,No,No,Rock,Yes,No,7,2,2,1,Improve
+3,8/27/2022,21:28:18,4,No,No,No,Video game music,No,Yes,7,7,10,2,No effect
+4,8/27/2022,21:40:40,2.5,Yes,No,Yes,Jazz,Yes,Yes,9,7,3,3,Improve
+5,8/27/2022,21:54:47,4,Yes,No,No,R&B,Yes,No,7,2,5,9,Improve
+6,8/27/2022,21:56:50,5,Yes,Yes,Yes,Jazz,Yes,Yes,8,8,7,7,Improve
+7,8/27/2022,22:00:29,3,Yes,Yes,No,Video game music,Yes,Yes,4,8,6,0,Improve
+8,8/27/2022,22:18:59,1,Yes,No,No,K pop,Yes,Yes,5,3,5,3,Improve
+9,8/27/2022,22:33:05,6,Yes,No,No,Rock,No,No,2,0,0,0,Improve
+10,8/27/2022,22:44:03,1,Yes,No,No,R&B,Yes,Yes,2,2,5,1,Improve
+11,8/27/2022,22:51:15,3,Yes,Yes,No,Country,Yes,No,7,7,4,7,No effect
+12,8/27/2022,23:00:32,8,Yes,No,No,EDM,Yes,No,1,0,0,1,Improve
+13,8/27/2022,23:04:00,3,Yes,No,No,Hip hop,Yes,Yes,9,3,2,7,Improve
+14,8/27/2022,23:12:03,2,Yes,No,No,Country,Yes,No,2,1,2,0,Improve
+15,8/27/2022,23:16:06,4,Yes,Yes,No,Jazz,Yes,Yes,6,4,7,0,Improve
+16,8/27/2022,23:19:52,2,No,No,No,Pop,Yes,Yes,7,5,4,1,Worsen
+17,8/27/2022,23:39:41,8,Yes,No,No,Hip hop,Yes,Yes,8,8,4,3,Improve
+18,8/27/2022,23:39:49,12,Yes,No,Yes,Hip hop,Yes,Yes,5,7,10,0,Improve
+19,8/27/2022,23:40:55,24,Yes,No,No,Rap,Yes,No,7,5,0,3,Improve
+20,8/27/2022,23:41:36,3,No,No,No,Hip hop,No,No,7,3,0,2,Improve
+21,8/27/2022,23:43:06,8,Yes,No,No,Hip hop,Yes,Yes,6,9,3,0,Improve
+22,8/28/2022,0:28:02,4,Yes,No,No,Rap,Yes,No,10,10,2,4,Improve
+23,8/28/2022,1:39:02,5,Yes,No,No,R&B,Yes,Yes,6,7,5,4,Improve
+24,8/28/2022,3:19:08,2,Yes,No,No,Pop,No,Yes,3,3,8,6,No effect
+25,8/28/2022,4:13:11,3,Yes,Yes,Yes,Rock,Yes,Yes,10,6,8,10,Improve
+26,8/28/2022,4:38:14,2,No,No,No,Pop,Yes,Yes,7,4,2,5,Improve
+27,8/28/2022,4:40:36,12,Yes,Yes,Yes,Rock,Yes,Yes,8,6,10,5,Improve
+28,8/28/2022,5:05:51,6,Yes,Yes,Yes,Pop,No,Yes,3,2,1,2,Improve
+29,8/28/2022,5:16:30,2,Yes,Yes,No,Pop,Yes,Yes,6,6,4,5,Improve
+30,8/28/2022,8:36:27,1,Yes,No,No,Pop,Yes,No,8,2,1,5,Improve
+31,8/28/2022,10:30:22,5,Yes,Yes,No,Rock,Yes,Yes,7,7,2,0,Improve
+32,8/28/2022,10:38:05,2,Yes,No,No,Classical,No,No,4,4,4,3,No effect
+33,8/28/2022,10:54:30,6,Yes,Yes,No,Metal,Yes,Yes,9,8,2,3,Improve
+34,8/28/2022,10:59:53,4,No,No,No,Rock,Yes,Yes,5,6,6,1,Improve
+35,8/28/2022,11:08:51,1,Yes,No,No,Classical,No,No,0,0,0,0,No effect
+36,8/28/2022,11:13:25,5,Yes,Yes,No,Pop,Yes,No,3,2,1,1,Improve
+37,8/28/2022,11:25:49,4,Yes,No,No,Pop,No,Yes,6,8,0,2,Improve
+38,8/28/2022,11:27:15,3,Yes,No,No,Pop,Yes,No,2,0,4,0,No effect
+39,8/28/2022,11:36:35,0.5,No,No,No,Rock,No,Yes,9,8,1,0,No effect
+40,8/28/2022,11:39:21,4,Yes,No,No,EDM,Yes,No,7,2,8,6,Improve
+41,8/28/2022,11:50:31,2,Yes,Yes,Yes,Video game music,Yes,No,4,2,3,4,Improve
+42,8/28/2022,11:54:45,5,Yes,Yes,No,Rock,Yes,No,7,6,5,0,Improve
+43,8/28/2022,11:55:54,0.25,No,No,No,Video game music,Yes,No,3,2,10,0,No effect
+44,8/28/2022,11:58:48,3,Yes,No,No,Classical,Yes,Yes,6,6,8,2,Improve
+45,8/28/2022,12:08:29,4,Yes,No,No,Metal,Yes,Yes,1,0,8,2,No effect
+46,8/28/2022,12:12:35,1,Yes,Yes,Yes,Folk,No,No,7,3,1,5,Improve
+47,8/28/2022,12:15:02,1,No,Yes,Yes,Classical,No,No,8,9,3,0,No effect
+48,8/28/2022,12:23:52,3,Yes,No,No,Rock,Yes,Yes,9,6,4,3,Improve
+49,8/28/2022,12:30:08,5,Yes,No,Yes,Metal,Yes,Yes,7,9,5,0,Improve
+50,8/28/2022,12:32:09,3,Yes,No,No,Pop,No,Yes,7,4,2,4,No effect
+51,8/28/2022,12:37:17,2,Yes,Yes,No,EDM,Yes,No,0,0,0,0,Improve
+52,8/28/2022,12:39:49,6,Yes,No,No,K pop,Yes,Yes,7,8,7,5,Improve
+53,8/28/2022,12:52:19,1,No,No,No,Rap,No,Yes,10,6,3,10,No effect
+54,8/28/2022,12:53:01,12,Yes,No,No,Pop,Yes,Yes,3,7,5,5,No effect
+55,8/28/2022,12:54:35,4,Yes,No,Yes,Rock,Yes,Yes,8,7,4,3,Improve
+56,8/28/2022,13:01:42,2,Yes,Yes,No,Classical,Yes,No,0,0,1,3,Improve
+57,8/28/2022,13:05:46,6,Yes,No,No,Rock,Yes,No,8,6,2,10,No effect
+58,8/28/2022,13:08:24,0,Yes,No,No,Rock,No,Yes,9,0,10,0,No effect
+59,8/28/2022,13:09:53,7,Yes,No,No,Folk,Yes,Yes,6,4,2,3,Improve
+60,8/28/2022,13:18:19,1,Yes,Yes,No,Video game music,No,No,7,0,0,2,Improve
+61,8/28/2022,13:22:36,1,No,Yes,No,K pop,Yes,Yes,10,1,0,0,Improve
+62,8/28/2022,13:22:53,1,No,Yes,No,Rock,Yes,No,8,7,0,5,Improve
+63,8/28/2022,13:34:00,2,Yes,Yes,No,Rock,No,No,3,2,6,7,Improve
+64,8/28/2022,13:34:27,2,No,No,No,Metal,No,Yes,5,5,3,1,No effect
+65,8/28/2022,13:42:20,5,Yes,No,No,Rock,No,Yes,10,10,3,1,Worsen
+66,8/28/2022,13:43:06,6,Yes,No,No,Metal,Yes,Yes,5,4,10,2,Improve
+67,8/28/2022,13:46:03,3,No,No,No,Rock,Yes,Yes,0,0,8,0,No effect
+68,8/28/2022,13:48:11,4,No,No,No,Hip hop,Yes,No,8,8,5,10,Improve
+69,8/28/2022,13:55:45,3,Yes,Yes,Yes,Metal,Yes,Yes,10,7,8,0,Improve
+70,8/28/2022,13:57:47,2,Yes,Yes,Yes,Rock,Yes,No,7,3,1,1,Improve
+71,8/28/2022,13:59:16,3,Yes,No,No,Rock,Yes,No,8,7,4,0,Improve
+72,8/28/2022,14:00:18,2,Yes,No,No,Rock,Yes,Yes,10,2,0,5,No effect
+73,8/28/2022,14:01:08,4,Yes,No,No,Rock,No,Yes,9,8,1,2,Improve
+74,8/28/2022,14:02:12,2,Yes,Yes,Yes,Hip hop,Yes,Yes,6,3,1,1,Improve
+75,8/28/2022,14:04:09,0.5,No,No,No,Hip hop,No,No,7,7,0,1,No effect
+76,8/28/2022,14:04:20,5,Yes,Yes,Yes,Jazz,Yes,Yes,7,7,8,4,Improve
+77,8/28/2022,14:07:29,5,Yes,No,No,Metal,Yes,Yes,4,1,0,0,Improve
+78,8/28/2022,14:08:57,10,Yes,No,No,R&B,Yes,Yes,7,2,1,5,Improve
+79,8/28/2022,14:10:04,2,No,No,No,EDM,No,Yes,9,0,5,10,Improve
+80,8/28/2022,14:10:17,4,Yes,No,No,Hip hop,Yes,Yes,2,7,1,1,Improve
+81,8/28/2022,14:12:55,5,No,Yes,Yes,Rock,Yes,Yes,10,8,7,0,Improve
+82,8/28/2022,14:14:48,3,Yes,No,No,Jazz,Yes,No,3,0,0,0,Improve
+83,8/28/2022,14:18:22,2,Yes,No,No,K pop,Yes,Yes,7,8,5,1,No effect
+84,8/28/2022,14:24:10,2.5,Yes,Yes,Yes,Rock,Yes,Yes,2,1,0,0,Improve
+85,8/28/2022,14:25:08,3,Yes,No,No,R&B,Yes,Yes,5,4,0,1,Improve
+86,8/28/2022,14:26:12,1,Yes,No,No,Rock,No,No,9,10,6,10,No effect
+87,8/28/2022,14:29:29,7,Yes,Yes,No,Jazz,No,No,2,0,0,0,Improve
+88,8/28/2022,14:30:34,1,No,No,No,Metal,No,Yes,5,2,5,1,Improve
+89,8/28/2022,14:38:19,1,No,No,No,R&B,No,No,3,2,0,0,No effect
+90,8/28/2022,14:41:04,3,Yes,No,No,Hip hop,No,No,2,0,7,0,No effect
+91,8/28/2022,14:45:44,5,Yes,Yes,No,Metal,Yes,No,7,6,6,2,No effect
+92,8/28/2022,14:47:08,6,Yes,Yes,Yes,Video game music,Yes,Yes,5,4,8,3,No effect
+93,8/28/2022,14:49:18,4,Yes,No,No,Classical,Yes,Yes,4,6,5,3,Improve
+94,8/28/2022,14:51:02,1,Yes,No,No,Rock,Yes,No,6,2,3,1,Improve
+95,8/28/2022,14:58:17,4,Yes,No,No,Video game music,Yes,No,8,2,1,6,Improve
+96,8/28/2022,14:59:05,10,Yes,No,No,Metal,Yes,Yes,9,6,0,6,Improve
+97,8/28/2022,15:02:14,3,No,No,Yes,EDM,Yes,Yes,0,3,7,0,Improve
+98,8/28/2022,15:03:51,2,No,No,No,Rock,Yes,No,8,9,6,2,Improve
+99,8/28/2022,15:03:56,4,Yes,No,No,Metal,Yes,Yes,4,1,1,1,Improve
+100,8/28/2022,15:07:16,8,Yes,No,No,Rock,No,No,8,7,5,0,Improve
+101,8/28/2022,15:09:31,2,No,Yes,Yes,Metal,Yes,Yes,3,4,6,1,Improve
+102,8/28/2022,15:22:00,0.5,No,Yes,No,Classical,No,No,1,1,3,1,Improve
+103,8/28/2022,15:32:38,5,Yes,No,No,Metal,Yes,No,10,8,6,7,No effect
+104,8/28/2022,15:41:56,1,No,No,No,Rock,Yes,No,6,6,2,0,No effect
+105,8/28/2022,16:04:58,3,Yes,No,No,Rock,Yes,Yes,6,7,0,0,Improve
+106,8/28/2022,16:07:28,2,Yes,Yes,No,Metal,Yes,Yes,8,4,10,0,No effect
+107,8/28/2022,16:07:51,3,Yes,No,No,Pop,No,Yes,9,7,6,2,No effect
+108,8/28/2022,16:08:12,2,Yes,Yes,No,Pop,Yes,No,7,4,6,5,Improve
+109,8/28/2022,16:13:28,4,Yes,No,No,Metal,Yes,Yes,6,7,0,0,No effect
+110,8/28/2022,16:15:08,3,Yes,No,Yes,Metal,Yes,No,10,0,10,10,Improve
+111,8/28/2022,16:15:08,2,Yes,No,No,Metal,Yes,Yes,6,3,0,1,Improve
+112,8/28/2022,16:15:39,3,No,No,No,Pop,No,No,7,5,5,3,Improve
+113,8/28/2022,16:15:58,4,Yes,No,No,Pop,Yes,No,7,10,5,0,Improve
+114,8/28/2022,16:23:43,2,Yes,Yes,No,Rock,Yes,Yes,8,6,0,0,Improve
+115,8/28/2022,16:27:00,8,Yes,No,No,K pop,Yes,Yes,4,3,0,0,Improve
+116,8/28/2022,16:30:17,4,Yes,No,No,Hip hop,Yes,Yes,7,6,7,5,Improve
+117,8/28/2022,16:30:36,2,No,Yes,No,Metal,No,Yes,7,3,2,3,Improve
+118,8/28/2022,16:32:40,1,No,No,Yes,EDM,Yes,No,2,7,5,0,Improve
+119,8/28/2022,16:34:03,3,Yes,No,No,Rock,Yes,No,7,8,6,5,Improve
+120,8/28/2022,16:37:00,0.5,No,No,No,Folk,Yes,No,4,7,1,0,Improve
+121,8/28/2022,16:37:10,2,No,No,No,Rock,Yes,Yes,7,8,5,1,No effect
+122,8/28/2022,16:53:26,3,Yes,No,No,Rock,Yes,Yes,5,2,8,6,Improve
+123,8/28/2022,16:58:35,2,Yes,Yes,Yes,Hip hop,Yes,Yes,10,7,4,2,Improve
+124,8/28/2022,17:14:08,1,No,No,No,Rock,Yes,No,6,5,0,0,No effect
+125,8/28/2022,17:14:32,5,Yes,No,No,Jazz,Yes,Yes,7,2,3,1,Improve
+126,8/28/2022,17:15:18,10,No,Yes,Yes,EDM,No,Yes,4,7,7,3,Improve
+127,8/28/2022,17:15:27,4,Yes,Yes,Yes,Pop,Yes,Yes,4,5,6,5,Improve
+128,8/28/2022,17:19:10,2,Yes,Yes,Yes,Rock,Yes,No,7,10,5,6,Worsen
+129,8/28/2022,17:27:12,1,No,No,No,Metal,Yes,No,6,4,5,0,Improve
+130,8/28/2022,17:32:18,6,Yes,No,No,Rock,Yes,Yes,4,1,3,1,No effect
+131,8/28/2022,17:33:12,1,Yes,Yes,No,Video game music,Yes,No,6,6,1,2,Improve
+132,8/28/2022,17:37:42,6,Yes,No,No,Rock,No,No,10,8,7,1,Improve
+133,8/28/2022,17:40:15,7,Yes,No,No,Pop,Yes,Yes,10,8,2,8,Improve
+134,8/28/2022,17:41:15,1,No,No,No,EDM,Yes,No,3,6,2,0,No effect
+135,8/28/2022,17:43:22,3,Yes,Yes,No,Rock,Yes,No,8,9,2,0,Improve
+136,8/28/2022,17:54:30,2,Yes,Yes,No,Video game music,No,Yes,8,3,8,7,Improve
+137,8/28/2022,17:56:27,3,Yes,Yes,No,Classical,Yes,No,3,3,1,2,Improve
+138,8/28/2022,18:02:14,2,Yes,Yes,No,Pop,Yes,Yes,6,5,2,0,Improve
+139,8/28/2022,18:03:27,3,Yes,No,Yes,Pop,No,No,0,0,4,0,No effect
+140,8/28/2022,18:03:50,1.5,Yes,No,No,Pop,No,No,6,5,0,2,Improve
+141,8/28/2022,18:06:24,4,Yes,No,No,Lofi,Yes,Yes,3,8,0,0,Improve
+142,8/28/2022,18:08:44,2,Yes,No,No,Rap,Yes,Yes,1,8,0,0,No effect
+143,8/28/2022,18:13:47,10,Yes,No,No,Metal,Yes,Yes,5,6,6,3,Improve
+144,8/28/2022,18:17:00,7,Yes,No,No,Pop,Yes,Yes,0,0,0,0,Improve
+145,8/28/2022,18:17:46,1,Yes,No,No,EDM,No,No,0,8,0,0,Improve
+146,8/28/2022,18:18:12,2,No,No,No,Metal,No,No,3,7,0,0,Improve
+147,8/28/2022,18:18:18,6,Yes,Yes,Yes,Jazz,Yes,Yes,8,8,8,5,Improve
+148,8/28/2022,18:18:24,2,Yes,Yes,Yes,Jazz,Yes,No,5,2,3,4,Improve
+149,8/28/2022,18:21:19,3,Yes,Yes,No,Folk,Yes,No,8,8,3,0,Improve
+150,8/28/2022,18:28:48,8,Yes,No,No,EDM,Yes,No,6,8,8,0,Improve
+151,8/28/2022,18:30:21,3,Yes,No,No,Pop,Yes,Yes,6,8,6,0,Worsen
+152,8/28/2022,18:33:32,3,Yes,Yes,Yes,Rock,Yes,Yes,6,6,7,5,Improve
+153,8/28/2022,18:35:17,3,Yes,No,No,Rock,No,No,9,10,3,0,No effect
+154,8/28/2022,18:51:10,2,No,Yes,No,Pop,No,No,7,7,5,0,Improve
+155,8/28/2022,18:53:03,1,No,No,No,Rock,No,No,10,7,2,8,No effect
+156,8/28/2022,18:54:47,2,Yes,Yes,No,Metal,Yes,Yes,1,3,0,6,No effect
+157,8/28/2022,18:55:44,2,Yes,Yes,No,Pop,No,Yes,5,3,2,1,Improve
+158,8/28/2022,18:56:54,4,Yes,No,No,Rock,Yes,Yes,6,8,1,6,Improve
+159,8/28/2022,18:57:39,4,Yes,No,No,Pop,Yes,No,7,2,0,7,Improve
+160,8/28/2022,18:58:09,1,Yes,Yes,No,Metal,Yes,Yes,6,9,9,0,Improve
+161,8/28/2022,18:58:27,2,No,No,No,R&B,No,Yes,1,1,4,1,No effect
+162,8/28/2022,18:59:40,2,Yes,No,No,K pop,No,Yes,0,2,0,0,Improve
+163,8/28/2022,18:59:53,1,Yes,No,No,EDM,Yes,No,8,8,2,0,Improve
+164,8/28/2022,19:04:05,3,Yes,Yes,Yes,Metal,Yes,No,3,3,7,0,No effect
+165,8/28/2022,19:04:26,10,Yes,No,No,Metal,Yes,Yes,8,8,3,0,Improve
+166,8/28/2022,19:07:16,1,No,No,Yes,Metal,Yes,Yes,6,4,0,3,No effect
+167,8/28/2022,19:10:07,3,Yes,No,No,Metal,Yes,Yes,1,0,0,0,Improve
+168,8/28/2022,19:12:02,1.5,Yes,No,No,Rock,No,No,5,5,4,4,Improve
+169,8/28/2022,19:16:43,3,Yes,Yes,No,K pop,Yes,Yes,8,9,6,0,No effect
+170,8/28/2022,19:18:53,2.5,Yes,Yes,No,Rock,No,Yes,8,8,7,6,Improve
+171,8/28/2022,19:20:03,2,Yes,No,No,Gospel,No,No,3,0,2,0,Improve
+172,8/28/2022,19:22:30,5,Yes,No,No,Metal,No,Yes,0,5,1,0,No effect
+173,8/28/2022,19:26:23,2,Yes,No,No,Pop,Yes,No,6,3,0,0,Improve
+174,8/28/2022,19:27:46,2,No,No,Yes,Metal,No,No,1,7,5,1,Improve
+175,8/28/2022,19:29:08,2,No,Yes,Yes,Video game music,Yes,No,4,2,1,1,No effect
+176,8/28/2022,19:29:25,2,Yes,No,No,R&B,No,Yes,5,6,0,1,No effect
+177,8/28/2022,19:30:42,1,Yes,No,No,Rock,Yes,Yes,1,0,0,0,No effect
+178,8/28/2022,19:30:49,1.5,Yes,No,No,Pop,Yes,No,8,6,5,2,Improve
+179,8/28/2022,19:35:58,5,Yes,Yes,Yes,Folk,Yes,Yes,9,4,0,3,Improve
+180,8/28/2022,19:40:03,0.5,No,No,No,Rock,Yes,Yes,4,6,6,4,Improve
+181,8/28/2022,19:46:02,2,Yes,No,No,Rock,No,Yes,7,3,1,5,Improve
+182,8/28/2022,19:46:57,0.5,No,No,No,Pop,No,No,10,3,1,0,No effect
+183,8/28/2022,19:50:30,2,Yes,No,No,Rock,No,Yes,8,8,3,0,Improve
+184,8/28/2022,19:56:46,2.5,Yes,No,No,R&B,No,No,7,6,5,4,Improve
+185,8/28/2022,19:59:01,2,Yes,Yes,No,K pop,Yes,Yes,7,2,3,5,Improve
+186,8/28/2022,20:01:29,2,No,No,No,Pop,Yes,No,10,3.5,5,10,Improve
+187,8/28/2022,20:04:49,1,Yes,No,No,Pop,Yes,Yes,7,5,1,2,Improve
+188,8/28/2022,20:12:05,4,Yes,Yes,No,Classical,No,Yes,6,8,9,5,Improve
+189,8/28/2022,20:14:02,5,Yes,No,No,Rock,No,No,2,9,2,1,No effect
+190,8/28/2022,20:14:47,2,Yes,Yes,Yes,Rock,No,No,7,4,10,2,Improve
+191,8/28/2022,20:15:28,2,Yes,Yes,No,Rock,Yes,Yes,7,5,6,0,Improve
+192,8/28/2022,20:20:20,2,Yes,No,No,R&B,Yes,Yes,6,1,0,0,Improve
+193,8/28/2022,20:20:52,1,Yes,Yes,No,Video game music,Yes,Yes,3,6,1,1,Improve
+194,8/28/2022,20:32:41,4,Yes,No,No,R&B,Yes,Yes,9,10,3,0,Improve
+195,8/28/2022,20:33:43,1,No,Yes,No,Rock,Yes,No,8,5,8,9,Improve
+196,8/28/2022,20:37:41,4,Yes,No,No,Pop,No,No,8,7,7,3,Improve
+197,8/28/2022,20:43:43,5,Yes,No,No,Rock,Yes,Yes,9,9,9,3,No effect
+198,8/28/2022,20:50:37,5,Yes,No,No,Country,Yes,No,9,8,9,7,Improve
+199,8/28/2022,20:57:16,7,Yes,No,No,Rock,Yes,Yes,9,3,7,8,Improve
+200,8/28/2022,20:57:57,2,Yes,No,No,Rock,Yes,No,10,8,6,2,Improve
+201,8/28/2022,21:01:18,3,Yes,No,No,Rock,Yes,Yes,9,6,3,0,Improve
+202,8/28/2022,21:03:23,2,Yes,No,No,Pop,No,No,7,7,8,3,Improve
+203,8/28/2022,21:06:09,3,Yes,No,Yes,Rock,Yes,Yes,9,10,4,0,Improve
+204,8/28/2022,21:11:09,3,Yes,No,No,Folk,Yes,Yes,9,9,8,2,Improve
+205,8/28/2022,21:14:34,3,Yes,No,No,Rock,No,No,9,10,3,9,Improve
+206,8/28/2022,21:14:51,5,Yes,Yes,Yes,Metal,Yes,Yes,10,9,8,8,Improve
+207,8/28/2022,21:23:07,6,Yes,No,Yes,Classical,No,Yes,6,5,6,8,Improve
+208,8/28/2022,21:24:10,2,No,No,No,R&B,No,Yes,8,6,10,3,Improve
+209,8/28/2022,21:26:19,2,No,No,No,Metal,Yes,No,8,3,6,4,Improve
+210,8/28/2022,21:28:30,1,No,Yes,No,Rock,Yes,No,4,2,1,3,Improve
+211,8/28/2022,21:30:33,1,Yes,No,No,Pop,Yes,Yes,2,1,1,1,No effect
+212,8/28/2022,21:30:41,3,No,No,No,Rock,Yes,No,10,10,7,3,Improve
+213,8/28/2022,21:31:40,3,Yes,No,No,Rap,Yes,Yes,8,9,0,0,Improve
+214,8/28/2022,21:47:26,1,No,No,No,Pop,No,Yes,4,9,6,2,No effect
+215,8/28/2022,21:48:12,6,Yes,No,No,Rock,Yes,Yes,4,2,0,0,Improve
+216,8/28/2022,21:48:29,4,Yes,No,No,Rock,Yes,No,9,2,7,7,Improve
+217,8/28/2022,21:52:44,2,Yes,No,No,Metal,Yes,Yes,8,6,7,5,Improve
+218,8/28/2022,21:54:05,2,Yes,Yes,No,Folk,Yes,Yes,6,5,4,2,Improve
+219,8/28/2022,21:55:05,3,Yes,No,No,Rock,Yes,Yes,8,5,2,3,Improve
+220,8/28/2022,21:55:22,8,Yes,Yes,Yes,Video game music,No,Yes,7,6,6,1,No effect
+221,8/28/2022,22:03:40,3,Yes,Yes,No,Rock,Yes,No,10,2,0,0,Improve
+222,8/28/2022,22:04:16,2,Yes,No,No,K pop,Yes,Yes,6,0,0,0,Improve
+223,8/28/2022,22:05:53,7,Yes,No,No,Pop,No,Yes,2,0,1,0,Improve
+224,8/28/2022,22:06:46,12,Yes,No,No,K pop,Yes,Yes,3,7,5,2,Improve
+225,8/28/2022,22:09:11,9,Yes,No,No,Pop,Yes,Yes,9,0,2,0,Improve
+226,8/28/2022,22:10:24,2,Yes,No,No,Pop,Yes,Yes,5,4,1,1,Improve
+227,8/28/2022,22:11:31,1,Yes,No,No,Folk,No,Yes,8,4,0,1,Improve
+228,8/28/2022,22:13:00,1,No,No,No,Country,No,No,8,10,2,0,Improve
+229,8/28/2022,22:14:01,2,Yes,No,No,Metal,Yes,Yes,3,6,2,1,No effect
+230,8/28/2022,22:14:30,4,Yes,No,No,Rock,No,No,4,4,2,1,Improve
+231,8/28/2022,22:21:12,2,Yes,Yes,No,Rock,Yes,Yes,7,5,2,6,Improve
+232,8/28/2022,22:30:17,6,Yes,No,No,Rock,Yes,No,3,2,0,0,No effect
+233,8/28/2022,22:32:47,4,Yes,Yes,Yes,Country,Yes,Yes,9,9,5,1,Improve
+234,8/28/2022,22:38:36,1,No,No,No,Rock,No,No,3,10,4,1,No effect
+235,8/28/2022,22:39:24,6,Yes,No,No,Folk,Yes,Yes,9,0,5,0,No effect
+236,8/28/2022,22:39:58,2,No,Yes,No,Metal,Yes,No,7,6,6,5,Improve
+237,8/28/2022,22:49:17,5,Yes,No,Yes,Folk,Yes,Yes,0,9,4,0,Improve
+238,8/28/2022,22:51:01,1.5,No,No,No,Pop,Yes,Yes,2,2,2,1,No effect
+239,8/28/2022,22:51:30,5,Yes,Yes,Yes,Metal,Yes,Yes,6,9,2,1,Improve
+240,8/28/2022,22:53:43,2,Yes,No,Yes,EDM,Yes,No,6,4,1,0,Improve
+241,8/28/2022,22:58:10,4,Yes,Yes,No,K pop,Yes,Yes,8,9,4,0,Improve
+242,8/28/2022,23:04:08,2,Yes,Yes,Yes,Rock,Yes,No,6,7,4,3,Improve
+243,8/28/2022,23:08:27,5,Yes,Yes,Yes,Classical,Yes,Yes,7,2,2,0,Improve
+244,8/28/2022,23:19:35,6,Yes,No,No,EDM,Yes,Yes,8,6,5,6,No effect
+245,8/28/2022,23:23:20,1,No,No,No,Rock,No,Yes,3,10,0,0,Worsen
+246,8/28/2022,23:23:41,6,Yes,Yes,No,Pop,Yes,Yes,9,4,9,7,Improve
+247,8/28/2022,23:23:50,4,No,Yes,No,Classical,Yes,Yes,7,9,2,8,Worsen
+248,8/28/2022,23:26:58,2,No,No,No,EDM,No,Yes,10,3,1,4,Improve
+249,8/28/2022,23:34:19,2,No,Yes,Yes,Metal,No,Yes,0,0,0,1,No effect
+250,8/28/2022,23:34:37,2,Yes,No,No,EDM,No,No,9,6,1,7,No effect
+251,8/28/2022,23:40:54,4,Yes,No,Yes,Lofi,Yes,No,7,1,3,5,Improve
+252,8/28/2022,23:42:24,2,Yes,Yes,No,EDM,No,Yes,9,7,5,7,Improve
+253,8/28/2022,23:47:13,6,Yes,No,No,Rap,Yes,Yes,3,1,2,7,Improve
+254,8/28/2022,23:50:25,3,Yes,No,No,Hip hop,Yes,Yes,6,6,8,0,Improve
+255,8/28/2022,23:54:34,5,Yes,No,No,Rock,Yes,Yes,10,6,0,4,Improve
+256,8/28/2022,23:56:06,0.5,Yes,Yes,No,Video game music,No,Yes,6,3,1,1,Improve
+257,8/29/2022,0:03:43,1,Yes,No,No,Video game music,Yes,Yes,3,3,0,7,No effect
+258,8/29/2022,0:05:09,10,Yes,No,No,Metal,Yes,Yes,9,10,2,2,No effect
+259,8/29/2022,0:05:36,2,Yes,No,No,Pop,No,Yes,7,5,0,2,No effect
+260,8/29/2022,0:21:31,0.5,No,No,No,Classical,Yes,No,3,0,4,4,No effect
+261,8/29/2022,0:32:36,1,No,No,No,Rock,No,Yes,9,9,6,4,Improve
+262,8/29/2022,0:33:06,2,Yes,Yes,No,Metal,Yes,Yes,5,7,7,2,Improve
+263,8/29/2022,0:33:49,3,Yes,No,No,Country,Yes,No,0,8,0,5,Improve
+264,8/29/2022,0:39:19,3,No,No,No,Country,Yes,Yes,8,4,3,4,Improve
+265,8/29/2022,0:39:59,2,Yes,No,No,Country,Yes,No,7,2,0,7,No effect
+266,8/29/2022,0:47:12,1,No,No,No,Pop,No,Yes,9,9,6,9,No effect
+267,8/29/2022,0:47:59,8,Yes,Yes,No,Classical,Yes,Yes,5,7,5,4,Improve
+268,8/29/2022,0:50:03,1,Yes,Yes,No,Pop,Yes,Yes,5,1,0,0,Improve
+269,8/29/2022,0:50:27,1,No,No,Yes,Folk,Yes,Yes,4,1,3,0,Improve
+270,8/29/2022,0:54:55,1,No,No,No,Pop,Yes,No,3,5,3,0,Improve
+271,8/29/2022,0:59:01,5,Yes,Yes,No,Rock,Yes,No,2,2,0,6,Improve
+272,8/29/2022,1:06:46,5,Yes,No,No,EDM,Yes,Yes,0,1,3,5,Improve
+273,8/29/2022,1:17:44,4,Yes,No,No,Metal,Yes,Yes,7,8,6,2,Improve
+274,8/29/2022,1:22:44,8,Yes,No,Yes,Video game music,Yes,No,6,4,8,8,Improve
+275,8/29/2022,1:26:19,0.7,No,No,No,Rock,No,No,5,6,8,2,Improve
+276,8/29/2022,1:34:06,3,No,No,No,Video game music,No,No,6,6,2,6,No effect
+277,8/29/2022,1:34:27,7,Yes,No,No,Hip hop,No,Yes,8,9,3,4,Improve
+278,8/29/2022,1:54:06,1.5,No,Yes,Yes,Video game music,No,Yes,8,4,3,3,Worsen
+279,8/29/2022,1:59:22,4,Yes,Yes,Yes,Video game music,Yes,Yes,8,6,5,7,Improve
+280,8/29/2022,2:03:07,4,Yes,No,No,Metal,Yes,Yes,8,8,7,7,Improve
+281,8/29/2022,2:06:14,10,Yes,No,Yes,Video game music,No,No,5,2,5,0,Improve
+282,8/29/2022,2:10:36,2,Yes,Yes,Yes,Rock,Yes,No,6,8,4,2,No effect
+283,8/29/2022,2:22:37,2,Yes,No,No,Rock,No,No,7,5,2,1,No effect
+284,8/29/2022,2:25:53,6,Yes,No,No,Jazz,Yes,Yes,8,8,7,1,Improve
+285,8/29/2022,2:28:45,0.5,Yes,Yes,No,Rock,Yes,Yes,10,2,0,0,Improve
+286,8/29/2022,2:29:08,2,Yes,Yes,Yes,Pop,Yes,Yes,8,7,7,5,Improve
+287,8/29/2022,2:30:08,5,Yes,No,No,Rock,Yes,Yes,8,8,8,6,Improve
+288,8/29/2022,2:30:45,3,Yes,Yes,Yes,Pop,Yes,No,8,10,9,2,Improve
+289,8/29/2022,2:40:16,4.5,Yes,No,No,Rock,No,Yes,6,1,8,4,No effect
+290,8/29/2022,2:43:40,3,Yes,No,No,Rock,Yes,Yes,0,4,4,0,Improve
+291,8/29/2022,2:46:27,20,Yes,No,No,Rock,Yes,Yes,8,10,10,8,No effect
+292,8/29/2022,2:46:38,1,No,No,No,Pop,Yes,No,3,2,0,1,No effect
+293,8/29/2022,2:49:37,2.5,No,Yes,Yes,Metal,Yes,No,5,3,3,1,Improve
+294,8/29/2022,2:54:06,1,No,No,No,Rock,Yes,Yes,8,9,6,1,Improve
+295,8/29/2022,3:01:38,2,No,Yes,No,Jazz,No,Yes,10,3,0,10,No effect
+296,8/29/2022,3:09:21,5,Yes,Yes,No,Metal,Yes,No,6,7,8,2,Improve
+297,8/29/2022,3:13:27,3,Yes,Yes,No,Metal,Yes,No,7,4,7,0,Improve
+298,8/29/2022,3:14:38,3,Yes,Yes,No,Rock,Yes,No,9,8,6,2,Improve
+299,8/29/2022,3:17:19,0.5,No,No,No,Rock,No,Yes,8,0,0,0,Improve
+300,8/29/2022,3:21:18,8,Yes,Yes,Yes,Country,Yes,No,8,9,2,5,No effect
+301,8/29/2022,3:29:44,2,Yes,No,No,Metal,Yes,Yes,7,2,3,0,Improve
+302,8/29/2022,3:32:43,3,Yes,Yes,Yes,Rock,Yes,Yes,10,10,4,0,Improve
+303,8/29/2022,3:44:33,3,Yes,No,No,Hip hop,Yes,Yes,8,8,3,3,Improve
+304,8/29/2022,3:46:02,5,Yes,Yes,No,Metal,Yes,Yes,8,7,7,4,Improve
+305,8/29/2022,3:47:32,1.5,Yes,No,Yes,Rock,Yes,Yes,8,7,1,2,Improve
+306,8/29/2022,3:49:29,1,Yes,No,No,Pop,No,No,6,5,10,2,No effect
+307,8/29/2022,4:02:01,2,Yes,Yes,No,Pop,Yes,No,7,6,0,4,Improve
+308,8/29/2022,4:02:12,1,Yes,No,No,Pop,No,No,7,4,0,0,Improve
+309,8/29/2022,4:10:25,4,Yes,No,No,Pop,Yes,Yes,8,7,2,10,No effect
+310,8/29/2022,4:17:46,1,Yes,No,No,EDM,Yes,Yes,4,4,4,0,Improve
+311,8/29/2022,4:36:16,2,Yes,No,No,Folk,Yes,No,0,0,2,0,No effect
+312,8/29/2022,4:37:05,2,Yes,Yes,Yes,EDM,Yes,Yes,6,4,0,1,Improve
+313,8/29/2022,4:41:30,2,No,No,No,Rock,Yes,No,4,7,0,0,Improve
+314,8/29/2022,4:42:51,1,No,No,No,Rock,No,No,8,4,3,0,No effect
+315,8/29/2022,4:51:37,6,Yes,No,No,Country,Yes,No,5,5,3,3,Improve
+316,8/29/2022,4:53:44,2,Yes,No,No,Rock,Yes,Yes,0,8,0,0,Improve
+317,8/29/2022,4:57:35,4,Yes,Yes,No,Rock,Yes,No,7,4,6,1,Improve
+318,8/29/2022,5:06:50,1.5,Yes,No,No,Rock,Yes,Yes,8,7,7,3,No effect
+319,8/29/2022,5:08:52,3,Yes,No,No,Metal,No,No,9,8,6,2,Improve
+320,8/29/2022,5:14:53,4,Yes,No,Yes,Rock,Yes,No,8,6,4,0,Improve
+321,8/29/2022,5:20:21,10,Yes,No,No,Rap,Yes,No,7,2,0,8,Improve
+322,8/29/2022,5:22:38,3,Yes,No,No,Rock,No,Yes,6,7,7,7,No effect
+323,8/29/2022,5:35:40,3,No,No,No,Rock,Yes,No,7,6,4,2,Improve
+324,8/29/2022,5:37:56,3,Yes,No,No,Pop,Yes,Yes,1,1,1,0,Improve
+325,8/29/2022,5:41:25,2,Yes,No,No,Pop,Yes,No,1,1,3,0,Improve
+326,8/29/2022,5:45:03,2,Yes,Yes,Yes,Pop,Yes,No,2,7,1,2,Improve
+327,8/29/2022,5:50:21,3,Yes,No,No,Pop,Yes,Yes,6,2,3,1,No effect
+328,8/29/2022,6:00:25,2,No,No,No,Pop,No,No,7,7,3,2,No effect
+329,8/29/2022,6:13:47,5,Yes,Yes,No,Video game music,No,No,8,7,0,3,No effect
+330,8/29/2022,6:31:56,6,Yes,No,No,Rock,No,No,8,3,5,2,Improve
+331,8/29/2022,6:44:14,3,Yes,Yes,Yes,EDM,Yes,No,5,4,2,0,Improve
+332,8/29/2022,6:58:24,5,Yes,No,No,Lofi,Yes,Yes,7,10,10,1,Improve
+333,8/29/2022,7:11:40,5,Yes,No,No,Country,Yes,Yes,7,6,8,4,Improve
+334,8/29/2022,7:17:09,6,Yes,No,No,Rock,No,No,8,7,0,9,Improve
+335,8/29/2022,7:48:34,6,Yes,No,No,Rock,Yes,Yes,10,7,3,3,No effect
+336,8/29/2022,7:52:49,3,Yes,No,No,Country,Yes,No,6,5,5,3,Improve
+337,8/29/2022,7:53:58,10,Yes,No,No,Rock,Yes,Yes,8,7,6,8,No effect
+338,8/29/2022,8:23:46,2,Yes,No,No,Video game music,Yes,Yes,10,7,7,3,Worsen
+339,8/29/2022,8:28:46,2,Yes,No,No,EDM,No,Yes,10,10,5,7,Worsen
+340,8/29/2022,8:37:30,3,No,Yes,No,Folk,Yes,No,8,2,2,8,No effect
+341,8/29/2022,8:38:53,1.5,No,No,No,Hip hop,No,No,3,7,4,0,Improve
+342,8/29/2022,8:39:19,10,Yes,No,No,Pop,Yes,No,9,7,5,5,Improve
+343,8/29/2022,8:47:09,2,Yes,No,No,Video game music,No,Yes,5,3,0,0,Improve
+344,8/29/2022,9:01:49,3,Yes,Yes,Yes,Rock,Yes,Yes,10,7,0,10,Improve
+345,8/29/2022,9:07:42,2.5,Yes,No,No,Folk,No,No,8,0,0,3,Improve
+346,8/29/2022,9:13:14,3,Yes,No,No,K pop,Yes,Yes,6,0,3,0,Improve
+347,8/29/2022,9:26:07,0.5,Yes,Yes,No,Rock,No,No,7,9,4,6,Improve
+348,8/29/2022,9:42:23,16,Yes,No,Yes,Jazz,Yes,Yes,3,2,5,6,Improve
+349,8/29/2022,9:43:35,6,Yes,Yes,No,Classical,Yes,Yes,4,2,0,0,Improve
+350,8/29/2022,9:47:21,3,Yes,No,No,EDM,Yes,Yes,4,2,0,0,Improve
+351,8/29/2022,9:47:26,0.5,No,No,No,Rock,Yes,No,5,3,1,0,No effect
+352,8/29/2022,9:52:20,5,Yes,No,No,K pop,Yes,Yes,4,2,2,1,Improve
+353,8/29/2022,9:56:31,2,No,Yes,No,Rap,Yes,Yes,4,0,6,5,No effect
+354,8/29/2022,10:23:22,2,Yes,No,No,Pop,Yes,Yes,7,6,3,1,Improve
+355,8/29/2022,10:23:46,2,Yes,No,No,Lofi,Yes,Yes,7,8,6,2,Improve
+356,8/29/2022,10:25:54,1.5,Yes,No,No,Video game music,No,Yes,3,4,1,1,Improve
+357,8/29/2022,10:41:11,1,Yes,Yes,No,Jazz,Yes,No,9,7,2,1,Improve
+358,8/29/2022,10:44:43,10,Yes,Yes,No,EDM,Yes,Yes,10,9,3,2,Improve
+359,8/29/2022,10:45:36,2,Yes,No,No,Metal,Yes,Yes,9,9,7,3,Improve
+360,8/29/2022,11:02:29,15,Yes,Yes,Yes,EDM,Yes,No,8,10,9,2,Improve
+361,8/29/2022,11:04:24,0.5,No,No,No,Metal,Yes,Yes,8,9,6,4,Improve
+362,8/29/2022,11:16:34,3,Yes,No,No,Metal,Yes,No,5,6,9,9,Improve
+363,8/29/2022,11:41:34,2,Yes,No,No,Metal,Yes,No,9,3,7,2,Improve
+364,8/29/2022,11:56:17,4,Yes,No,No,Hip hop,Yes,No,3,2,1,6,Improve
+365,8/29/2022,12:25:16,2,Yes,No,No,Folk,Yes,No,7,7,4,0,Improve
+366,8/29/2022,12:30:01,1,Yes,No,No,Rock,Yes,No,7,9,1,2,Improve
+367,8/29/2022,12:32:30,24,Yes,No,No,Rock,Yes,Yes,5,1,9,1,Improve
+368,8/29/2022,13:09:33,1,Yes,No,No,Pop,Yes,No,3,3,0,0,Improve
+369,8/29/2022,14:13:58,2,Yes,Yes,No,Classical,Yes,No,8,7,5,4,Improve
+370,8/29/2022,14:25:08,2,Yes,Yes,No,Pop,Yes,Yes,8,2,1,1,Improve
+371,8/29/2022,14:49:56,3,Yes,No,No,Metal,Yes,Yes,4,0,0,0,Improve
+372,8/29/2022,14:53:54,3,Yes,Yes,No,Classical,No,Yes,9,6,1,1,Improve
+373,8/29/2022,15:05:22,2,Yes,No,No,Hip hop,Yes,Yes,10,7,2,0,Improve
+374,8/29/2022,15:18:16,7,Yes,No,No,Rock,No,No,8,7,7,4,Improve
+375,8/29/2022,15:20:35,6,Yes,No,No,Metal,Yes,No,1,0,0,0,Improve
+376,8/29/2022,16:05:19,3,Yes,No,No,Rock,Yes,Yes,5,7,1,4,Improve
+377,8/29/2022,16:07:39,5,Yes,No,Yes,Rock,Yes,No,7,6,9,2,Improve
+378,8/29/2022,16:28:12,4,Yes,Yes,Yes,Lofi,Yes,Yes,8,8,2,2,Improve
+379,8/29/2022,16:39:08,3,Yes,Yes,No,Rock,No,Yes,2,2,8,0,No effect
+380,8/29/2022,17:04:16,2,Yes,Yes,No,Pop,Yes,No,6,0,0,2,Improve
+381,8/29/2022,17:22:01,3,Yes,No,No,Metal,Yes,Yes,2,0,1,0,Improve
+382,8/29/2022,17:32:02,2,Yes,No,No,Rock,Yes,No,6,2,6,7,No effect
+383,8/29/2022,17:36:01,2,Yes,No,No,Pop,Yes,Yes,6,1,0,5,Improve
+384,8/29/2022,17:52:06,3,No,Yes,No,Classical,Yes,No,7,6,4,0,Improve
+385,8/29/2022,17:58:47,2,Yes,Yes,Yes,Classical,No,No,0,0,3,0,Improve
+386,8/29/2022,18:00:27,3,Yes,Yes,Yes,Classical,No,No,9,7,10,6,No effect
+387,8/29/2022,18:09:17,0,No,No,No,Video game music,No,Yes,10,0,0,0,No effect
+388,8/29/2022,18:13:51,1,Yes,Yes,No,Pop,Yes,No,6,6,3,0,Improve
+389,8/29/2022,18:22:58,2,Yes,No,No,Metal,Yes,No,4,3,1,6,Improve
+390,8/29/2022,18:47:22,2,Yes,Yes,No,Pop,No,Yes,6,2,2,1,No effect
+391,8/29/2022,18:56:27,6,Yes,No,No,Classical,No,No,2,2,3,2,Improve
+392,8/29/2022,18:57:09,5,Yes,No,No,K pop,Yes,Yes,7,4,5,6,Improve
+393,8/29/2022,19:07:50,2,Yes,Yes,No,Classical,Yes,No,7,5,3,2,Improve
+394,8/29/2022,19:08:34,4,Yes,Yes,Yes,Classical,Yes,No,8,5,10,3,Improve
+395,8/29/2022,19:44:49,8,Yes,No,Yes,Country,Yes,No,7,5,6,5,Improve
+396,8/29/2022,20:03:00,4,Yes,Yes,No,Classical,Yes,No,6,8,8,2,Improve
+397,8/29/2022,20:03:04,1.5,No,Yes,No,Classical,Yes,Yes,1,2,4,3,Improve
+398,8/29/2022,20:04:14,2,Yes,Yes,No,Rap,Yes,Yes,3,2,0,2,Improve
+399,8/29/2022,20:12:32,5,Yes,No,No,Folk,Yes,Yes,6,7,7,4,Improve
+400,8/29/2022,20:18:37,6,Yes,Yes,No,Classical,No,No,6,7,2,0,No effect
+401,8/29/2022,20:22:33,2,Yes,No,No,Pop,No,Yes,9,8,4,8,Improve
+402,8/29/2022,20:47:47,2,No,No,No,Rock,Yes,No,7,7,2,1,Improve
+403,8/29/2022,21:21:30,1,No,Yes,No,Rock,Yes,No,1,0,1,0,Improve
+404,8/29/2022,21:24:24,1,No,No,No,Rap,No,No,4,3,4,5,Improve
+405,8/29/2022,22:00:46,2,No,No,No,R&B,Yes,No,2,0,0,0,Improve
+406,8/29/2022,22:04:50,2,Yes,Yes,No,Rock,Yes,Yes,0,5,7,0,No effect
+407,8/29/2022,22:52:14,1,Yes,Yes,No,Pop,No,Yes,8,7,7,0,Improve
+408,8/29/2022,23:20:48,14,Yes,No,No,Hip hop,Yes,Yes,5,10,8,0,No effect
+409,8/29/2022,23:36:14,3,Yes,Yes,Yes,Classical,No,No,8,7,9,2,Improve
+410,8/30/2022,0:00:29,3,Yes,Yes,Yes,Classical,Yes,No,9,6,8,5,Improve
+411,8/30/2022,0:14:35,2,Yes,Yes,Yes,Rock,Yes,No,2,2,7,0,No effect
+412,8/30/2022,1:01:09,0.5,Yes,Yes,Yes,Classical,Yes,Yes,7,8,6,2,Improve
+413,8/30/2022,5:16:13,6,Yes,No,No,EDM,No,Yes,10,10,8,2,No effect
+414,8/30/2022,6:05:56,1,Yes,Yes,No,Country,No,No,8,5,2,3,Improve
+415,8/30/2022,6:10:58,2,Yes,Yes,No,Classical,Yes,Yes,7,8,2,5,Improve
+416,8/30/2022,8:00:32,4,Yes,Yes,Yes,Classical,Yes,Yes,1,1,2,0,Improve
+417,8/30/2022,9:35:28,3,Yes,Yes,Yes,R&B,Yes,Yes,9,10,10,3,No effect
+418,8/30/2022,10:10:44,12,Yes,Yes,Yes,Jazz,Yes,Yes,9,4,4,4,Improve
+419,8/30/2022,11:05:06,3,No,Yes,No,Classical,Yes,No,8,2,4,0,No effect
+420,8/30/2022,11:12:36,1,No,No,No,Metal,Yes,Yes,1,1,5,1,Improve
+421,8/30/2022,12:03:11,10,Yes,No,No,EDM,Yes,No,10,9,9,8,Improve
+422,8/30/2022,13:07:20,5,Yes,Yes,No,Classical,Yes,Yes,3,0,2,3,Improve
+423,8/30/2022,14:25:28,0.5,Yes,Yes,No,Video game music,Yes,Yes,4,0,4,0,Improve
+424,8/30/2022,14:43:14,5,Yes,Yes,Yes,Metal,Yes,Yes,2,3,5,2,Improve
+425,8/30/2022,16:04:47,3,Yes,Yes,Yes,Classical,Yes,No,2,3,3,0,Improve
+426,8/30/2022,16:43:28,2,No,No,No,Rock,Yes,No,8,4,3,0,Improve
+427,8/30/2022,16:47:39,13,Yes,No,No,K pop,Yes,Yes,10,10,10,7,Improve
+428,8/30/2022,17:33:13,4,Yes,Yes,No,Classical,Yes,Yes,8,8,9,3,Improve
+429,8/30/2022,17:43:36,6,Yes,Yes,Yes,Rock,No,No,0,1,0,2,Improve
+430,8/30/2022,18:15:39,3,Yes,No,No,R&B,Yes,Yes,5,4,0,1,Improve
+431,8/31/2022,1:39:16,4,Yes,No,No,Pop,Yes,Yes,7.5,5,7,8.5,Improve
+432,8/31/2022,5:45:08,3,No,Yes,No,Rap,Yes,Yes,3,3,0,0,Improve
+433,8/31/2022,6:36:13,2,Yes,Yes,No,Classical,No,No,7,5,3,1,Improve
+434,8/31/2022,8:04:22,2,Yes,Yes,Yes,Classical,Yes,Yes,8,0,1,6,Improve
+435,8/31/2022,8:35:00,1,Yes,No,No,Hip hop,Yes,Yes,6,4,1,1,Improve
+436,8/31/2022,9:42:46,6,Yes,Yes,No,K pop,Yes,Yes,8,8,7,10,No effect
+437,8/31/2022,12:53:28,9,Yes,No,No,R&B,Yes,Yes,10,8,9,5,Improve
+438,8/31/2022,13:20:39,1,No,No,No,Country,No,No,3,0,2,0,Improve
+439,8/31/2022,14:28:33,1,Yes,No,No,Video game music,No,No,5,5,7,1,Worsen
+440,8/31/2022,15:48:18,0.5,No,No,Yes,Hip hop,Yes,Yes,7,7,6,5,Improve
+441,8/31/2022,16:47:03,1,No,No,No,EDM,Yes,No,7,4,6,3,Improve
+442,8/31/2022,18:56:31,1.5,Yes,Yes,No,Folk,No,No,3,3,1,0,No effect
+443,8/31/2022,18:56:39,6,Yes,No,No,Rap,Yes,No,4,0,0,2,Worsen
+444,8/31/2022,20:40:05,4,Yes,No,No,Rock,Yes,No,3,0,6,9,Improve
+445,8/31/2022,21:04:07,6,Yes,No,Yes,Rock,Yes,No,5,1,6,0,Improve
+446,8/31/2022,23:09:44,4,Yes,No,No,Metal,Yes,Yes,10,6,8,0,Improve
+447,9/1/2022 0:00,1:16:00,1.5,Yes,No,No,Classical,Yes,Yes,7,5,1,2,No effect
+448,9/1/2022 0:00,2:32:00,2,Yes,No,No,Rock,Yes,Yes,7,7,0,4,No effect
+449,9/1/2022 0:00,3:38:00,2,Yes,No,No,Pop,Yes,No,6,0,0,0,Improve
+450,9/1/2022 0:00,5:01:00,4,Yes,No,No,Rock,Yes,Yes,6,2,3,2,Improve
+451,9/1/2022 0:00,5:20:00,3,Yes,No,No,Lofi,Yes,Yes,7,6,7,9,Improve
+452,9/1/2022 0:00,9:25:00,4,Yes,No,No,Rock,Yes,Yes,5,7,7,0,No effect
+453,9/1/2022 0:00,12:04:00,2,Yes,No,No,Pop,No,No,7,6,4,3,Improve
+454,9/1/2022 0:00,1:13:00,2,Yes,No,No,Rock,Yes,No,2,2,2,0,Improve
+455,9/1/2022 0:00,1:14:00,6,Yes,No,No,Video game music,No,Yes,9,5,0,7,Improve
+456,9/1/2022 0:00,2:56:00,0,No,Yes,No,Rock,No,Yes,3,7,8,0,Worsen
+457,9/1/2022 0:00,2:57:00,1,No,No,No,Pop,Yes,No,4,5,9,1,Improve
+458,9/1/2022 0:00,2:59:00,4,Yes,Yes,No,Rock,Yes,Yes,1,0,7,0,Improve
+459,9/1/2022 0:00,3:01:00,2,No,Yes,Yes,Metal,No,No,3,2,0,2,No effect
+460,9/1/2022 0:00,3:05:00,3,Yes,No,No,Metal,Yes,Yes,1,6,1,2,Improve
+461,9/1/2022 0:00,3:21:00,4,No,No,No,Hip hop,Yes,No,8,10,4,0,No effect
+462,9/1/2022 0:00,3:24:00,2,No,No,No,Video game music,No,Yes,8,10,10,0,No effect
+463,9/1/2022 0:00,3:24:00,3,Yes,No,No,Metal,Yes,Yes,3,0,8,1,No effect
+464,9/1/2022 0:00,3:26:00,1,No,No,No,Hip hop,Yes,No,3,4,1,0,Improve
+465,9/1/2022 0:00,3:36:00,10,Yes,No,No,Rock,Yes,No,2,1,2,2,Improve
+466,9/1/2022 0:00,3:50:00,10,No,No,No,Rock,Yes,No,0,0,0,0,No effect
+467,9/1/2022 0:00,4:00:00,10,Yes,No,No,Video game music,No,Yes,8,8,5,0,Improve
+468,9/1/2022 0:00,4:06:00,4,No,No,No,Country,Yes,No,1,1,1,0,No effect
+469,9/1/2022 0:00,4:11:00,4,Yes,No,No,Folk,Yes,Yes,8,7,6,2,Improve
+470,9/1/2022 0:00,4:30:00,3,No,No,No,Metal,Yes,Yes,6,5,4,0,No effect
+471,9/1/2022 0:00,4:35:00,2,Yes,No,No,Rock,Yes,No,5,4,6,2,Improve
+472,9/1/2022 0:00,4:38:00,1,No,Yes,No,Rock,Yes,No,3,1,0,2,No effect
+473,9/1/2022 0:00,4:38:00,6,Yes,Yes,No,Country,Yes,No,4,8,2,2,Improve
+474,9/1/2022 0:00,4:43:00,1,Yes,No,No,Rock,Yes,No,5,6,3,1,Improve
+475,9/1/2022 0:00,4:58:00,1,Yes,Yes,Yes,Classical,Yes,No,0,0,2,1,Improve
+476,9/1/2022 0:00,5:00:00,4,Yes,No,No,Rock,No,No,7,6,7,4,Improve
+477,9/1/2022 0:00,5:17:00,2,Yes,No,No,Country,No,No,8,5,6,1,Improve
+478,9/1/2022 0:00,5:27:00,2,Yes,No,No,Rock,No,Yes,4,4,2,0,Improve
+479,9/1/2022 0:00,5:33:00,2,Yes,Yes,Yes,Pop,Yes,No,9,8,10,9,Improve
+480,9/1/2022 0:00,5:48:00,6,Yes,No,No,EDM,Yes,Yes,5,5,7,0,Improve
+481,9/1/2022 0:00,5:51:00,3,Yes,No,No,Hip hop,Yes,Yes,4,6,8,1,Improve
+482,9/1/2022 0:00,6:02:00,1,Yes,No,No,Lofi,Yes,Yes,4,8,5,0,Improve
+483,9/1/2022 0:00,6:10:00,4,Yes,Yes,No,Lofi,Yes,No,9,10,6,7,Improve
+484,9/1/2022 0:00,6:11:00,0.5,No,No,No,Classical,No,No,3,2,2,2,Improve
+485,9/1/2022 0:00,6:38:00,8,Yes,No,No,Rock,Yes,Yes,6,2,2,1,Improve
+486,9/1/2022 0:00,7:08:00,15,Yes,No,No,Rock,No,No,2,0,3,0,No effect
+487,9/1/2022 0:00,7:09:00,1.5,Yes,Yes,No,Metal,No,No,10,8,0,4,Improve
+488,9/1/2022 0:00,7:36:00,2,Yes,Yes,No,K pop,Yes,Yes,4,4,2,2,Improve
+489,9/1/2022 0:00,7:39:00,3,Yes,Yes,No,Pop,Yes,Yes,7,8,6,2,Improve
+490,9/1/2022 0:00,7:39:00,1,Yes,No,No,Pop,Yes,Yes,7,6,5,5,Improve
+491,9/1/2022 0:00,7:44:00,0.25,Yes,No,No,Gospel,No,Yes,1,0,0,0,Improve
+492,9/1/2022 0:00,8:02:00,1,No,Yes,Yes,Gospel,No,No,6,2,8,0,Improve
+493,9/1/2022 0:00,8:36:00,1,Yes,No,Yes,Video game music,No,No,4,5,7,0,No effect
+494,9/1/2022 0:00,9:05:00,5,Yes,No,No,Hip hop,No,Yes,10,7,0,0,Improve
+495,9/1/2022 0:00,9:07:00,1,No,No,No,Pop,No,No,4,2,1,0,Improve
+496,9/1/2022 0:00,9:14:00,1,Yes,No,No,Hip hop,No,No,7,6,2,3,Improve
+497,9/1/2022 0:00,9:24:00,7,Yes,No,No,Lofi,Yes,Yes,3,2,8,0,Improve
+498,9/1/2022 0:00,9:44:00,3,No,Yes,Yes,Hip hop,Yes,Yes,10,7,4,3,Improve
+499,9/1/2022 0:00,10:38:00,3,Yes,No,No,K pop,Yes,Yes,4,0,0,0,No effect
+500,9/1/2022 0:00,11:11:00,7,Yes,No,No,Rock,No,No,7,7,0,0,Improve
+501,9/2/2022 0:00,12:08:00,8,Yes,No,No,EDM,No,Yes,6,7,4,1,Improve
+502,9/2/2022 0:00,12:20:00,2,Yes,No,No,Metal,Yes,No,7,6,2,7,Improve
+503,9/2/2022 0:00,12:32:00,2,Yes,No,No,Pop,Yes,Yes,6,5,8,0,Improve
+504,9/2/2022 0:00,1:03:00,2,Yes,No,No,Rock,Yes,Yes,10,10,2,3,Improve
+505,9/2/2022 0:00,1:59:00,2,Yes,No,No,K pop,Yes,Yes,7,6,5,1,Improve
+506,9/2/2022 0:00,2:19:00,4,No,No,No,Video game music,Yes,Yes,3,0,0,0,Improve
+507,9/2/2022 0:00,3:06:00,8,Yes,No,No,Rock,Yes,Yes,8,2,1,0,No effect
+508,9/2/2022 0:00,3:27:00,4,Yes,No,No,Rap,Yes,No,7,6,6,5,Improve
+509,9/2/2022 0:00,3:32:00,1,No,No,No,Rock,Yes,No,3,2,5,0,No effect
+510,9/2/2022 0:00,3:36:00,5,No,No,No,Metal,No,Yes,8,2,1,0,Improve
+511,9/2/2022 0:00,4:06:00,2,Yes,No,No,Rock,No,No,7,7,2,4,Improve
+512,9/2/2022 0:00,4:56:00,1,No,No,No,Country,No,No,5,1,1,1,Improve
+513,9/2/2022 0:00,4:56:00,5,Yes,No,No,Rock,No,No,1,2,1,0,No effect
+514,9/2/2022 0:00,5:21:00,8,Yes,No,No,Rock,Yes,No,2,1,2,2,Improve
+515,9/2/2022 0:00,5:40:00,2,Yes,No,No,Classical,No,No,5,2,4,0,Improve
+516,9/2/2022 0:00,5:49:00,2,Yes,No,No,Pop,No,No,7,2,1,0,Improve
+517,9/2/2022 0:00,6:20:00,1,Yes,No,No,Folk,No,Yes,10,10,7,8,Improve
+518,9/2/2022 0:00,6:41:00,8,Yes,No,No,Pop,Yes,Yes,7,2,1,6,Improve
+519,9/2/2022 0:00,7:13:00,8,Yes,No,No,Pop,Yes,No,6,4,1,0,Improve
+520,9/2/2022 0:00,7:13:00,1,No,No,No,EDM,Yes,No,5,9,6,1,Improve
+521,9/2/2022 0:00,7:29:00,1,Yes,Yes,No,Video game music,No,No,7,5,7,0,Improve
+522,9/2/2022 0:00,7:53:00,8,Yes,No,No,Jazz,Yes,Yes,7,6,7,4,Improve
+523,9/2/2022 0:00,8:05:00,2,Yes,No,No,Rock,No,No,0,0,0,0,Improve
+524,9/2/2022 0:00,8:06:00,6,Yes,No,No,R&B,No,Yes,3,5,0,2,No effect
+525,9/2/2022 0:00,9:15:00,3,No,Yes,Yes,Metal,Yes,Yes,8,8,5,2,Improve
+526,9/2/2022 0:00,9:25:00,4,Yes,Yes,No,EDM,No,Yes,8,7,10,6,Improve
+527,9/2/2022 0:00,9:54:00,2,Yes,No,No,Rock,No,Yes,2,4,5,2,Improve
+528,9/2/2022 0:00,2:09:00,3,Yes,Yes,No,Classical,No,No,7,3,9,2,Improve
+529,9/2/2022 0:00,2:31:00,4,No,No,Yes,Pop,Yes,No,8,7,4,4,Improve
+530,9/2/2022 0:00,3:24:00,2,No,No,No,Jazz,Yes,Yes,0,0,0,5,No effect
+531,9/2/2022 0:00,4:14:00,1,Yes,No,No,Pop,No,Yes,8,6,9,8,Improve
+532,9/2/2022 0:00,4:36:00,1,Yes,No,No,Video game music,Yes,Yes,4,2,3,2,Improve
+533,9/2/2022 0:00,7:20:00,1,No,No,No,Rock,No,No,3,2,2,2,Improve
+534,9/2/2022 0:00,7:39:00,2,Yes,Yes,No,Gospel,No,No,6,4,10,0,Improve
+535,9/2/2022 0:00,9:14:00,7,Yes,No,No,Pop,Yes,Yes,8,8,10,0,Improve
+536,9/2/2022 0:00,9:19:00,5,Yes,No,No,Pop,Yes,Yes,5,5,5,5,Improve
+537,9/2/2022 0:00,10:18:00,3,Yes,No,No,Rock,No,No,10,8,6,2,No effect
+538,9/3/2022 0:00,3:54:00,1,No,No,No,Rock,No,No,0,0,7,0,Improve
+539,9/3/2022 0:00,5:27:00,6,Yes,Yes,Yes,Rock,Yes,Yes,8,8,10,0,Improve
+540,9/3/2022 0:00,7:09:00,2,No,No,No,Rock,Yes,No,8,2,0,0,No effect
+541,9/3/2022 0:00,8:53:00,3,Yes,Yes,Yes,Metal,Yes,No,7,8,4,10,Improve
+542,9/3/2022 0:00,10:20:00,1.5,Yes,No,No,Country,No,No,0,2,0,1,Improve
+543,9/3/2022 0:00,10:41:00,4,Yes,Yes,No,Pop,Yes,No,3,5,4,0,Improve
+544,9/3/2022 0:00,12:26:00,2,Yes,Yes,No,Pop,Yes,Yes,5,2,3,1,Improve
+545,9/3/2022 0:00,1:52:00,2,Yes,No,No,Folk,Yes,No,6,1,0,0,Improve
+546,9/3/2022 0:00,2:08:00,2,No,No,No,Rap,Yes,Yes,6,3,4,2,Improve
+547,9/3/2022 0:00,2:35:00,1,Yes,Yes,Yes,Rock,Yes,No,5,6,8,2,Improve
+548,9/3/2022 0:00,3:52:00,3,Yes,No,No,K pop,Yes,Yes,8,4,7,5,Improve
+549,9/3/2022 0:00,3:52:00,3,Yes,No,No,Pop,Yes,No,1,1,2,3,Improve
+550,9/3/2022 0:00,4:00:00,2,No,Yes,No,Rock,Yes,No,8,3,1,3,Improve
+551,9/3/2022 0:00,4:24:00,6,Yes,No,Yes,Rap,Yes,No,3,3,0,0,Improve
+552,9/3/2022 0:00,5:14:00,3,Yes,No,No,Classical,No,Yes,0,0,0,0,No effect
+553,9/3/2022 0:00,6:01:00,3,Yes,No,No,Pop,No,No,5,4,2,0,No effect
+554,9/3/2022 0:00,6:23:00,2,Yes,No,No,R&B,Yes,No,2,4,0,0,Improve
+555,9/3/2022 0:00,6:37:00,2,Yes,No,No,Video game music,No,No,4,6,0,2,Improve
+556,9/3/2022 0:00,8:49:00,2,Yes,No,Yes,Pop,Yes,No,5,7,2,0,Improve
+557,9/3/2022 0:00,8:58:00,3,Yes,No,No,Rock,Yes,Yes,4,0,7,0,No effect
+558,9/3/2022 0:00,9:08:00,4,Yes,No,No,Pop,Yes,Yes,10,8,6,2,No effect
+559,9/3/2022 0:00,9:52:00,2,Yes,Yes,Yes,R&B,Yes,No,3,3,1,0,Improve
+560,9/4/2022 0:00,2:32:00,5,Yes,Yes,No,Rock,Yes,No,8,7,2,1,Improve
+561,9/4/2022 0:00,5:01:00,2,Yes,No,No,R&B,No,No,3,3,0,3,Improve
+562,9/4/2022 0:00,5:22:00,1,No,No,No,K pop,Yes,No,4,5,2,5,Improve
+563,9/4/2022 0:00,9:22:00,7,Yes,No,No,Folk,Yes,Yes,10,10,8,10,Improve
+564,9/4/2022 0:00,10:07:00,3,Yes,Yes,No,K pop,No,Yes,10,2,7,8,Improve
+565,9/4/2022 0:00,10:48:00,3,No,Yes,Yes,Metal,Yes,No,9,6,8,5,Improve
+566,9/4/2022 0:00,11:15:00,4,Yes,No,No,R&B,Yes,Yes,6,4,1,6,Improve
+567,9/4/2022 0:00,11:25:00,3,Yes,No,No,Pop,Yes,No,3,4,6,8,Improve
+568,9/4/2022 0:00,1:07:00,1,Yes,No,No,Gospel,No,No,10,10,10,0,Improve
+569,9/4/2022 0:00,3:41:00,7,Yes,No,No,Video game music,Yes,No,4,8,8,4,No effect
+570,9/4/2022 0:00,4:26:00,1,No,No,No,R&B,Yes,Yes,3,0,0,0,Improve
+571,9/4/2022 0:00,5:54:00,4,Yes,No,No,R&B,Yes,Yes,1,0,0,0,Improve
+572,9/4/2022 0:00,8:38:00,4,Yes,No,No,Classical,Yes,No,5,6,7,7,No effect
+573,9/4/2022 0:00,9:29:00,3,Yes,No,No,Video game music,Yes,Yes,7,0,3,1,No effect
+574,9/4/2022 0:00,9:44:00,2,Yes,No,No,Pop,No,No,10,8,8,9,Improve
+575,9/4/2022 0:00,10:32:00,4,Yes,Yes,No,R&B,Yes,Yes,3,0,3,4,Improve
+576,9/5/2022 0:00,2:08:00,5,Yes,No,No,EDM,Yes,Yes,1,0,0,1,No effect
+577,9/5/2022 0:00,6:29:00,6,Yes,No,No,Pop,No,No,6,6,0,0,Improve
+578,9/5/2022 0:00,8:21:00,1,Yes,No,No,Video game music,Yes,No,4,3,4,0,Improve
+579,9/5/2022 0:00,12:10:00,1,No,No,No,Pop,No,No,6,4,0,0,Improve
+580,9/5/2022 0:00,9:56:00,3,Yes,No,No,Rock,Yes,No,2,6,3,0,Worsen
+581,9/6/2022 0:00,9:40:00,1,Yes,No,No,Pop,Yes,Yes,8,3,3,3,Improve
+582,9/6/2022 0:00,10:12:00,8,No,No,No,Rock,No,Yes,8,10,7,3,No effect
+583,9/6/2022 0:00,11:15:00,1,No,Yes,No,Rock,No,No,1,0,0,1,Improve
+584,9/6/2022 0:00,11:19:00,8,Yes,Yes,Yes,Rock,Yes,No,8,6,6,8,Improve
+585,9/6/2022 0:00,12:36:00,1,Yes,No,No,Pop,Yes,Yes,6,3,1,7,Improve
+586,9/6/2022 0:00,1:26:00,1,No,Yes,No,Rap,Yes,Yes,2,0,3,0,Improve
+587,9/6/2022 0:00,2:43:00,10,Yes,Yes,Yes,Metal,No,Yes,0,0,0,0,No effect
+588,9/6/2022 0:00,3:53:00,10,Yes,Yes,Yes,Rock,Yes,No,10,10,6,6,Improve
+589,9/6/2022 0:00,7:27:00,5,Yes,No,No,Rock,Yes,Yes,3,0,0,1,Improve
+590,9/7/2022 0:00,9:16:00,10,Yes,No,No,Rock,Yes,Yes,7,9,10,0,Improve
+591,9/7/2022 0:00,12:32:00,2,Yes,Yes,No,Classical,Yes,Yes,8,7,6,2,Improve
+592,9/7/2022 0:00,2:17:00,6,Yes,No,No,R&B,No,No,2,0,10,10,Improve
+593,9/7/2022 0:00,7:43:00,2,Yes,No,No,R&B,Yes,No,10,7,9,3,No effect
+594,9/7/2022 0:00,9:19:00,3,Yes,No,No,Pop,No,Yes,6,0,0,0,Improve
+595,9/8/2022 0:00,3:06:00,8,Yes,Yes,Yes,Gospel,Yes,Yes,3,0,2,2,Improve
+596,9/8/2022 0:00,4:56:00,8,Yes,No,No,Lofi,Yes,Yes,6,5,9,8,Improve
+597,9/8/2022 0:00,6:12:00,8,Yes,No,No,Rock,Yes,No,7,6,5,8,Improve
+598,9/8/2022 0:00,6:14:00,8,Yes,Yes,No,Metal,Yes,No,10,7,8,6,Improve
+599,9/8/2022 0:00,7:16:00,12,Yes,Yes,No,Latin,Yes,No,0,3,9,5,No effect
+600,9/8/2022 0:00,9:30:00,6,Yes,No,No,EDM,Yes,Yes,0,2,1,5,Improve
+601,9/8/2022 0:00,11:40:00,4,Yes,Yes,No,R&B,No,Yes,2,0,0,0,No effect
+602,9/9/2022 0:00,7:19:00,8,Yes,No,No,Jazz,Yes,No,2,2,4,0,No effect
+603,9/9/2022 0:00,7:48:00,2,No,No,No,Pop,No,No,5,6,3,4,No effect
+604,9/9/2022 0:00,11:15:00,1,No,No,No,Rock,No,No,0,0,1,0,No effect
+605,9/9/2022 0:00,11:25:00,2,Yes,Yes,No,Hip hop,Yes,No,5,4,3,7,Improve
+606,9/9/2022 0:00,6:44:00,3,Yes,Yes,No,K pop,Yes,Yes,2,7,0,0,Improve
+607,9/9/2022 0:00,10:31:00,1,Yes,No,No,Video game music,Yes,Yes,0,6,0,4,Improve
+608,9/9/2022 0:00,11:34:00,0,No,No,No,Classical,Yes,Yes,0,0,0,0,Improve
+609,9/10/2022 0:00,2:59:00,2,Yes,Yes,Yes,Rap,Yes,Yes,7,5,1,3,Improve
+610,9/10/2022 0:00,6:07:00,0.1,Yes,Yes,No,Folk,No,Yes,7,5,3,1,No effect
+611,9/10/2022 0:00,9:06:00,2,Yes,No,No,Rock,No,Yes,3,3,1,8,No effect
+612,9/10/2022 0:00,10:08:00,12,Yes,No,No,Rock,Yes,Yes,7,10,4,7,Worsen
+613,9/12/2022 0:00,9:39:00,1,Yes,No,No,Pop,Yes,No,3,2,3,0,Improve
+614,9/12/2022 0:00,11:45:00,1,Yes,No,No,Rock,No,No,5,1,1,9,Improve
+615,9/12/2022 0:00,12:09:00,3,Yes,No,No,Rock,No,No,8,9,4,10,Improve
+616,9/12/2022 0:00,12:14:00,2,Yes,No,No,Metal,Yes,Yes,4,8,0,0,Improve
+617,9/12/2022 0:00,12:15:00,2,Yes,No,No,Rock,Yes,Yes,7,9,7,0,Improve
+618,9/12/2022 0:00,12:46:00,3,Yes,Yes,No,Rock,Yes,No,1,5,6,4,No effect
+619,9/12/2022 0:00,1:31:00,1,No,No,No,Jazz,Yes,Yes,3,2,1,0,No effect
+620,9/12/2022 0:00,1:33:00,3,Yes,Yes,Yes,Jazz,Yes,Yes,6,8,0,0,Improve
+621,9/12/2022 0:00,1:46:00,3,Yes,No,No,Rock,No,No,6,3,6,0,Improve
+622,9/12/2022 0:00,1:55:00,5,Yes,Yes,Yes,Metal,Yes,Yes,7,4,8,0,Improve
+623,9/12/2022 0:00,2:20:00,8,Yes,No,No,Metal,Yes,No,2,6,9,1,No effect
+624,9/12/2022 0:00,2:27:00,4,Yes,No,No,Hip hop,Yes,Yes,8,5,3,8,Improve
+625,9/12/2022 0:00,2:29:00,5,Yes,No,Yes,Rock,Yes,Yes,3,3,0,0,Improve
+626,9/12/2022 0:00,2:42:00,3,Yes,No,No,Rap,No,Yes,7,5,3,3,Improve
+627,9/12/2022 0:00,2:44:00,4,Yes,No,No,Rock,Yes,Yes,4,8,2,3,Improve
+628,9/12/2022 0:00,3:07:00,1,Yes,Yes,No,Classical,No,No,3,0,0,5,Improve
+629,9/12/2022 0:00,3:12:00,4,Yes,No,No,Metal,Yes,Yes,10,7,3,2,Improve
+630,9/12/2022 0:00,4:24:00,1,No,No,No,Rock,Yes,Yes,10,4,8,0,Improve
+631,9/12/2022 0:00,6:07:00,2,Yes,Yes,No,Video game music,No,Yes,2,2,0,0,Improve
+632,9/12/2022 0:00,6:09:00,6,Yes,No,No,Folk,Yes,No,8,7,7,3,Improve
+633,9/12/2022 0:00,6:10:00,2,No,No,No,Rock,No,No,10,5,2,8,Improve
+634,9/12/2022 0:00,6:54:00,1,Yes,No,No,Rock,Yes,No,9,10,10,6,No effect
+635,9/12/2022 0:00,7:03:00,4,Yes,Yes,No,Metal,Yes,No,5,2,1,6,Improve
+636,9/12/2022 0:00,7:13:00,8,Yes,Yes,Yes,Classical,No,No,4,8,9,1,Improve
+637,9/12/2022 0:00,7:41:00,2,Yes,No,No,Metal,Yes,Yes,7,8,5,3,Improve
+638,9/12/2022 0:00,8:07:00,2,Yes,No,No,EDM,Yes,Yes,2,2,0,3,No effect
+639,9/12/2022 0:00,10:24:00,10,Yes,No,Yes,K pop,Yes,Yes,10,3,0,4,Improve
+640,9/12/2022 0:00,10:26:00,0,No,No,No,Metal,No,No,10,10,10,9,Improve
+641,9/12/2022 0:00,11:09:00,6,Yes,No,No,Folk,Yes,Yes,3,7,7,4,No effect
+642,9/12/2022 0:00,11:16:00,3,Yes,No,No,EDM,Yes,Yes,7,5,7,7,Improve
+643,9/12/2022 0:00,11:56:00,2,Yes,No,No,Metal,No,Yes,7,4,8,8,Improve
+644,9/13/2022,0:48:14,0.25,No,Yes,No,Classical,Yes,Yes,7,9,4,5,Improve
+645,9/13/2022,1:55:43,4,Yes,No,No,EDM,Yes,Yes,4,7,1,3,Improve
+646,9/13/2022,1:57:14,2,No,No,No,Metal,Yes,No,5,9,9,6,Improve
+647,9/13/2022,2:17:14,2,Yes,No,No,Pop,Yes,No,5,4,10,7,No effect
+648,9/13/2022,4:45:33,3,Yes,No,No,Pop,No,No,7,2,0,1,Improve
+649,9/13/2022,5:57:53,6,Yes,No,No,Folk,Yes,Yes,8,6,0,2,Improve
+650,9/13/2022,7:06:03,3,No,No,No,Metal,Yes,No,1,3,10,0,No effect
+651,9/13/2022,7:12:07,2,Yes,No,No,Rock,Yes,No,8,10,10,2,Worsen
+652,9/13/2022,8:05:59,5,Yes,Yes,No,Folk,Yes,Yes,4,7,6,0,No effect
+653,9/13/2022,8:36:33,4,No,No,No,Pop,No,Yes,9,6,3,0,No effect
+654,9/13/2022,9:29:29,4,Yes,No,No,Rock,Yes,No,10,7,4,4,Improve
+655,9/13/2022,11:16:37,0,No,No,No,Rock,No,No,1,2,2,0,No effect
+656,9/13/2022,13:18:32,12,Yes,Yes,Yes,Rock,Yes,No,7,10,0,8,Improve
+657,9/13/2022,13:58:18,0.5,No,No,No,Pop,No,No,10,2,1,10,Worsen
+658,9/13/2022,16:16:16,1,Yes,No,No,Rock,No,No,2,1,2,2,Improve
+659,9/13/2022,16:34:56,3,Yes,No,No,R&B,Yes,Yes,3,10,0,0,No effect
+660,9/13/2022,22:19:10,12,No,No,No,Rock,Yes,Yes,7,10,2,0,Improve
+661,9/13/2022,23:06:06,4,Yes,Yes,Yes,Metal,No,No,4,2,0,0,Improve
+662,9/14/2022,0:09:08,3,Yes,No,No,R&B,No,No,4,2,5,3,Improve
+663,9/14/2022,0:58:57,1,Yes,No,No,Metal,Yes,Yes,6,8,7,0,Improve
+664,9/14/2022,7:07:15,4,No,No,No,Folk,Yes,Yes,8,6,4,0,Improve
+665,9/14/2022,9:56:39,2,Yes,Yes,Yes,Rock,Yes,No,2,2,0,0,No effect
+666,9/14/2022,12:44:04,3,Yes,No,No,Rock,Yes,Yes,8,7,9,3,Improve
+667,9/15/2022,0:33:58,3,Yes,Yes,No,Rock,No,Yes,4,3,5,0,No effect
+668,9/15/2022,9:41:28,1,Yes,No,No,Rock,Yes,Yes,6,1,0,4,No effect
+669,9/15/2022,11:09:46,2,Yes,No,No,Pop,Yes,Yes,6,6,3,6,Improve
+670,9/15/2022,15:30:41,1,Yes,No,No,K pop,Yes,Yes,8,7,1,1,No effect
+671,9/16/2022,1:47:01,0.5,Yes,No,No,Pop,Yes,Yes,5,3,4,1,Improve
+672,9/16/2022,9:24:53,2,Yes,No,No,Video game music,No,No,6,2,4,3,Improve
+673,9/16/2022,21:55:32,11,Yes,Yes,Yes,Metal,Yes,Yes,5,6,6,0,Improve
+674,9/18/2022,16:23:29,10,Yes,Yes,Yes,Jazz,Yes,Yes,6,10,8,1,Improve
+675,9/18/2022,20:32:27,5,Yes,Yes,No,Rock,Yes,No,7,3,9,7,Improve
+676,9/19/2022,8:12:47,1.5,Yes,Yes,No,Classical,Yes,Yes,4,6,0,0,No effect
+677,9/19/2022,9:37:09,2,Yes,No,No,Folk,Yes,Yes,9,4,0,1,Improve
+678,9/19/2022,18:34:27,3,No,No,No,Rap,Yes,Yes,9,7,7,5,Improve
+679,9/19/2022,20:09:43,2,No,No,Yes,Rock,Yes,No,5,10,2,7,No effect
+680,9/19/2022,23:53:37,3,Yes,No,No,Country,No,Yes,1,0,1,0,Improve
+681,9/21/2022,21:12:20,4,No,No,No,R&B,Yes,Yes,8,7,2,6,Improve
+682,9/22/2022,12:32:45,1,No,No,No,K pop,No,Yes,5,1,4,0,Improve
+683,9/22/2022,15:03:22,5,Yes,Yes,No,Latin,Yes,Yes,10,6,0,0,Improve
+684,9/23/2022,21:07:24,2,Yes,No,No,R&B,Yes,No,7,5,5,5,Improve
+685,9/23/2022,23:05:47,7,Yes,No,No,Hip hop,Yes,Yes,3,1,0,3,Improve
+686,9/23/2022,23:06:12,2,Yes,No,No,Rap,Yes,Yes,5,8,7,4,Improve
+687,9/23/2022,23:06:29,1,Yes,No,No,Classical,No,No,2,0,0,5,No effect
+688,9/23/2022,23:43:10,1,No,Yes,No,Classical,No,No,7,0,0,0,No effect
+689,9/24/2022,0:42:39,4,Yes,No,No,R&B,No,No,8,0,0,2,No effect
+690,9/24/2022,10:25:15,6,Yes,No,No,R&B,Yes,Yes,4,1,1,0,Improve
+691,9/24/2022,10:59:12,3,Yes,No,No,Hip hop,Yes,No,3,8,0,2,Improve
+692,9/25/2022,14:01:57,4,Yes,No,No,Hip hop,Yes,No,7,0,2,2,Improve
+693,9/27/2022,8:17:33,4,Yes,No,No,Video game music,Yes,Yes,10,8,10,0,Improve
+694,9/27/2022,11:46:56,1,Yes,Yes,Yes,Pop,Yes,No,7,1,1,1,Improve
+695,9/27/2022,13:32:27,2,Yes,Yes,No,Pop,Yes,Yes,5,9,1,7,No effect
+696,9/28/2022,17:25:48,24,Yes,Yes,Yes,Rap,No,No,0,0,0,0,No effect
+697,9/28/2022,19:37:41,5,Yes,Yes,Yes,R&B,Yes,Yes,10,6,3,8,Improve
+698,9/29/2022,17:54:15,3,No,Yes,No,Rock,Yes,Yes,7,3.5,3.5,5.5,Improve
+699,10/2/2022 0:00,7:52:00,4,Yes,Yes,Yes,Country,Yes,Yes,2,0,0,2,Improve
+700,10/3/2022 0:00,9:30:00,9,Yes,No,No,Metal,No,Yes,10,10,10,8,Improve
+701,10/3/2022 0:00,10:00:00,1,Yes,No,No,Pop,No,Yes,8,9,6,5,Worsen
+702,10/3/2022 0:00,10:25:00,1,Yes,Yes,No,Rock,Yes,Yes,9,7,8,4,Improve
+703,10/3/2022 0:00,10:53:00,2,Yes,No,No,Folk,Yes,No,6,4,5,0,Improve
+704,10/3/2022 0:00,11:30:00,1.5,No,No,No,Folk,No,No,8,5,9,4,Improve
+705,10/3/2022 0:00,1:01:00,2,Yes,Yes,No,Metal,Yes,Yes,3,7,0,0,Improve
+706,10/3/2022 0:00,1:47:00,4,Yes,Yes,No,Pop,Yes,No,9,1,0,9,Improve
+707,10/3/2022 0:00,3:38:00,1,Yes,Yes,No,Rock,Yes,Yes,8,6,1,4,Improve
+708,10/3/2022 0:00,4:43:00,1,No,No,No,Country,Yes,No,4,1,1,6,Improve
+709,10/3/2022 0:00,8:03:00,3,Yes,No,No,Video game music,Yes,Yes,6,5,3,1,No effect
+710,10/4/2022 0:00,12:48:00,4,Yes,Yes,Yes,Hip hop,Yes,No,7,8,6,5,Improve
+711,10/4/2022 0:00,4:50:00,8,Yes,Yes,Yes,Rock,Yes,No,8,9,5,10,Improve
+712,10/4/2022 0:00,8:12:00,5,Yes,No,No,Metal,Yes,Yes,8,6,7,0,Improve
+713,10/4/2022 0:00,8:53:00,3,Yes,No,No,Rock,No,No,10,5,2,0,Improve
+714,10/4/2022 0:00,2:50:00,8,Yes,No,No,Pop,Yes,Yes,5,2,4,7,No effect
+715,10/4/2022 0:00,7:33:00,1,No,No,No,Country,Yes,No,9,3,2,0,No effect
+716,10/4/2022 0:00,7:43:00,4,Yes,Yes,Yes,Pop,No,No,4,6,3,4,Improve
+717,10/5/2022 0:00,8:58:00,1,No,No,No,Metal,Yes,Yes,9,8,4,0,Improve
+718,10/5/2022 0:00,12:30:00,2,No,No,No,Rock,Yes,Yes,5,7,10,2,No effect
+719,10/6/2022 0:00,3:35:00,1,Yes,Yes,No,Metal,Yes,Yes,8,3,9,2,No effect
+720,10/6/2022 0:00,9:17:00,3,Yes,No,No,Video game music,Yes,Yes,10,10,6,8,Improve
+721,10/9/2022 0:00,10:15:00,5,Yes,No,No,Hip hop,Yes,No,7,7,5,5,Improve
+722,10/11/2022 0:00,3:46:00,5,Yes,Yes,No,Pop,Yes,Yes,10,8,1,0,Improve
+723,10/14/2022,18:01:12,4,Yes,No,No,Pop,Yes,Yes,8,6,2,0,Improve
+724,10/14/2022,20:42:26,6,Yes,No,No,Pop,Yes,Yes,10,7,6,10,Improve
+725,10/15/2022,14:00:55,6,Yes,No,No,Pop,Yes,Yes,6,6,8,0,Improve
+726,10/22/2022,15:20:29,1,Yes,No,No,Video game music,Yes,No,10,10,8,4,Worsen
+727,10/23/2022,20:50:27,18,Yes,No,No,EDM,Yes,No,9,8,5,10,Improve
+728,10/26/2022,19:45:54,1,Yes,No,No,Metal,Yes,Yes,0,0,0,0,No effect
+729,10/30/2022,7:24:08,7,Yes,Yes,No,Country,Yes,No,7,3,1,2,Improve
+730,10/30/2022,13:13:32,0.5,No,No,No,Pop,Yes,No,6,2,2,0,Improve
+731,10/30/2022,13:15:26,2,Yes,No,No,R&B,Yes,Yes,7,6,4,6,Improve
+732,10/30/2022,14:37:28,2,Yes,Yes,No,Rock,Yes,Yes,7,6,0,9,Improve
+733,11/1/2022 0:00,10:26:00,1,Yes,Yes,No,Pop,Yes,Yes,3,2,2,5,Improve
+734,11/3/2022 0:00,11:24:00,6,Yes,No,Yes,Rap,Yes,No,2,2,2,2,Improve
+735,11/8/2022 0:00,5:31:00,5,Yes,Yes,No,Classical,No,No,2,3,2,1,Improve
+736,11/9/2022 0:00,1:55:00,2,Yes,No,No,Hip hop,Yes,Yes,2,2,2,5,Improve
+737,10/20/2022,10:00:00,1,Yes,No,No,Pop,No,Yes,8,9,6,5,Worsen
+738,10/20/2022,10:25:00,1,Yes,Yes,No,Rock,Yes,Yes,9,7,8,4,Improve
+739,10/20/2022,10:53:00,2,Yes,No,No,Folk,Yes,No,6,4,5,0,Improve
+740,10/20/2022,11:30:00,1.5,No,No,No,Folk,No,No,8,5,9,4,Improve
+741,10/20/2022,1:01:00,2,Yes,Yes,No,Metal,Yes,Yes,3,7,0,0,Improve
+742,10/20/2022,1:47:00,4,Yes,Yes,No,Pop,Yes,No,9,1,0,9,Improve
+743,10/20/2022,3:38:00,1,Yes,Yes,No,Rock,Yes,Yes,8,6,1,4,Improve
+744,10/20/2022,4:43:00,1,No,No,No,Country,Yes,No,4,1,1,6,Improve
+745,10/20/2022,8:03:00,3,Yes,No,No,Video game music,Yes,Yes,6,5,3,1,No effect
+746,10/20/2022,12:48:00,4,Yes,Yes,Yes,Hip hop,Yes,No,7,8,6,5,Improve
+747,10/20/2022,0:48:14,0.25,No,Yes,No,Classical,Yes,Yes,7,9,4,5,Improve
+748,10/20/2022,1:55:43,4,Yes,No,No,EDM,Yes,Yes,4,7,1,3,Improve
+749,10/20/2022,1:57:14,2,No,No,No,Metal,Yes,No,5,9,9,6,Improve
+750,10/20/2022,2:17:14,2,Yes,No,No,Pop,Yes,No,5,4,10,7,No effect
+751,10/20/2022,4:45:33,3,Yes,No,No,Pop,No,No,7,2,0,1,Improve
+752,10/20/2022,5:57:53,6,Yes,No,No,Folk,Yes,Yes,8,6,0,2,Improve
+753,10/20/2022,7:06:03,3,No,No,No,Metal,Yes,No,1,3,10,0,No effect
+754,10/20/2022,7:12:07,2,Yes,No,No,Rock,Yes,No,8,10,10,2,Worsen
+755,10/20/2022,8:05:59,5,Yes,Yes,No,Folk,Yes,Yes,4,7,6,0,No effect
+756,10/20/2022,8:36:33,4,No,No,No,Pop,No,Yes,9,6,3,0,No effect
+757,10/20/2022,9:29:29,4,Yes,No,No,Rock,Yes,No,10,7,4,4,Improve
+758,10/20/2022,11:16:37,0,No,No,No,Rock,No,No,1,2,2,0,No effect
+759,10/20/2022,13:18:32,12,Yes,Yes,Yes,Rock,Yes,No,7,10,0,8,Improve
+760,10/20/2022,13:58:18,0.5,No,No,No,Pop,No,No,10,2,1,10,Worsen
+761,10/20/2022,16:16:16,1,Yes,No,No,Rock,No,No,2,1,2,2,Improve
+762,10/20/2022,16:34:56,3,Yes,No,No,R&B,Yes,Yes,3,10,0,0,No effect
+763,10/20/2022,22:19:10,12,No,No,No,Rock,Yes,Yes,7,10,2,0,Improve
+764,10/20/2022,23:06:06,4,Yes,Yes,Yes,Metal,No,No,4,2,0,0,Improve
+765,9/14/2022,0:09:08,3,Yes,No,No,R&B,No,No,4,2,5,3,Improve
+766,9/14/2022,0:58:57,1,Yes,No,No,Metal,Yes,Yes,6,8,7,0,Improve
+767,9/14/2022,7:07:15,4,No,No,No,Folk,Yes,Yes,8,6,4,0,Improve
+768,9/14/2022,9:56:39,2,Yes,Yes,Yes,Rock,Yes,No,2,2,0,0,No effect
+769,9/14/2022,12:44:04,3,Yes,No,No,Rock,Yes,Yes,8,7,9,3,Improve
+770,10/20/2022,0:33:58,3,Yes,Yes,No,Rock,No,Yes,4,3,5,0,No effect
+771,10/20/2022,9:41:28,1,Yes,No,No,Rock,Yes,Yes,6,1,0,4,No effect
+772,10/20/2022,11:09:46,2,Yes,No,No,Pop,Yes,Yes,6,6,3,6,Improve
+773,10/25/2022,15:30:41,1,Yes,No,No,K pop,Yes,Yes,8,7,1,1,No effect
+774,10/25/2022,1:47:01,0.5,Yes,No,No,Pop,Yes,Yes,5,3,4,1,Improve
+775,10/25/2022,9:24:53,2,Yes,No,No,Video game music,No,No,6,2,4,3,Improve
+776,10/25/2022,21:55:32,11,Yes,Yes,Yes,Metal,Yes,Yes,5,6,6,0,Improve
+777,10/25/2022,16:23:29,10,Yes,Yes,Yes,Jazz,Yes,Yes,6,10,8,1,Improve
+778,10/25/2022,20:32:27,5,Yes,Yes,No,Rock,Yes,No,7,3,9,7,Improve
+779,10/25/2022,8:12:47,1.5,Yes,Yes,No,Classical,Yes,Yes,4,6,0,0,No effect
+780,10/25/2022,9:37:09,2,Yes,No,No,Folk,Yes,Yes,9,4,0,1,Improve
+781,10/25/2022,18:34:27,3,No,No,No,Rap,Yes,Yes,9,7,7,5,Improve
+782,10/25/2022,20:09:43,2,No,No,Yes,Rock,Yes,No,5,10,2,7,No effect
+783,10/25/2022,23:53:37,3,Yes,No,No,Country,No,Yes,1,0,1,0,Improve
+784,10/25/2022,21:12:20,4,No,No,No,R&B,Yes,Yes,8,7,2,6,Improve
+785,10/25/2022,12:32:45,1,No,No,No,K pop,No,Yes,5,1,4,0,Improve
+786,10/25/2022,15:03:22,5,Yes,Yes,No,Latin,Yes,Yes,10,6,0,0,Improve
+787,10/25/2022,21:07:24,2,Yes,No,No,R&B,Yes,No,7,5,5,5,Improve
+788,10/25/2022,23:05:47,7,Yes,No,No,Hip hop,Yes,Yes,3,1,0,3,Improve
+789,10/25/2022,23:06:12,2,Yes,No,No,Rap,Yes,Yes,5,8,7,4,Improve
+790,10/25/2022,23:06:29,1,Yes,No,No,Classical,No,No,2,0,0,5,No effect
+791,10/25/2022,23:43:10,1,No,Yes,No,Classical,No,No,7,0,0,0,No effect
+792,10/25/2022,0:42:39,4,Yes,No,No,R&B,No,No,8,0,0,2,No effect
+793,10/25/2022,10:25:15,6,Yes,No,No,R&B,Yes,Yes,4,1,1,0,Improve
+794,10/25/2022,10:59:12,3,Yes,No,No,Hip hop,Yes,No,3,8,0,2,Improve
+795,10/25/2022,14:01:57,4,Yes,No,No,Hip hop,Yes,No,7,0,2,2,Improve
+796,10/25/2022,8:17:33,4,Yes,No,No,Video game music,Yes,Yes,10,8,10,0,Improve
+797,10/25/2022,11:46:56,1,Yes,Yes,Yes,Pop,Yes,No,7,1,1,1,Improve
+798,10/25/2022,13:32:27,2,Yes,Yes,No,Pop,Yes,Yes,5,9,1,7,No effect
+799,10/25/2022,17:25:48,24,Yes,Yes,Yes,Rap,No,No,0,0,0,0,No effect
+800,10/25/2022,19:37:41,5,Yes,Yes,Yes,R&B,Yes,Yes,10,6,3,8,Improve
+801,10/25/2022,17:54:15,3,No,Yes,No,Rock,Yes,Yes,7,3.5,3.5,5.5,Improve
+802,10/25/2022,7:52:00,4,Yes,Yes,Yes,Country,Yes,Yes,2,0,0,2,Improve
+803,10/25/2022,9:30:00,9,Yes,No,No,Metal,No,Yes,10,10,10,8,Improve
+804,10/25/2022,10:00:00,1,Yes,No,No,Pop,No,Yes,8,9,6,5,Worsen
+805,10/25/2022,10:25:00,1,Yes,Yes,No,Rock,Yes,Yes,9,7,8,4,Improve
+806,10/25/2022,10:53:00,2,Yes,No,No,Folk,Yes,No,6,4,5,0,Improve
+807,10/25/2022,11:30:00,1.5,No,No,No,Folk,No,No,8,5,9,4,Improve
+808,10/25/2022,1:01:00,2,Yes,Yes,No,Metal,Yes,Yes,3,7,0,0,Improve
+809,10/25/2022,1:47:00,4,Yes,Yes,No,Pop,Yes,No,9,1,0,9,Improve
+810,10/25/2022,3:38:00,1,Yes,Yes,No,Rock,Yes,Yes,8,6,1,4,Improve
+811,10/25/2022,4:43:00,1,No,No,No,Country,Yes,No,4,1,1,6,Improve
+812,10/25/2022,8:03:00,3,Yes,No,No,Video game music,Yes,Yes,6,5,3,1,No effect
+813,10/24/2022,12:48:00,4,Yes,Yes,Yes,Hip hop,Yes,No,7,8,6,5,Improve
+814,10/24/2022,4:50:00,8,Yes,Yes,Yes,Rock,Yes,No,8,9,5,10,Improve
+815,10/24/2022,8:12:00,5,Yes,No,No,Metal,Yes,Yes,8,6,7,0,Improve
+816,10/24/2022,8:53:00,3,Yes,No,No,Rock,No,No,10,5,2,0,Improve
+817,10/24/2022,2:50:00,8,Yes,No,No,Pop,Yes,Yes,5,2,4,7,No effect
+818,10/24/2022,7:33:00,1,No,No,No,Country,Yes,No,9,3,2,0,No effect
+819,10/24/2022,7:43:00,4,Yes,Yes,Yes,Pop,No,No,4,6,3,4,Improve
+820,10/24/2022,8:58:00,1,No,No,No,Metal,Yes,Yes,9,8,4,0,Improve
+821,10/24/2022,12:30:00,2,No,No,No,Rock,Yes,Yes,5,7,10,2,No effect
+822,10/24/2022,3:35:00,1,Yes,Yes,No,Metal,Yes,Yes,8,3,9,2,No effect
+823,10/24/2022,9:17:00,3,Yes,No,No,Video game music,Yes,Yes,10,10,6,8,Improve
+824,10/25/2022,10:15:00,5,Yes,No,No,Hip hop,Yes,No,7,7,5,5,Improve
+825,10/25/2022,3:46:00,5,Yes,Yes,No,Pop,Yes,Yes,10,8,1,0,Improve
+826,10/25/2022,18:01:12,4,Yes,No,No,Pop,Yes,Yes,8,6,2,0,Improve
+827,10/25/2022,20:42:26,6,Yes,No,No,Pop,Yes,Yes,10,7,6,10,Improve
+828,10/25/2022,14:00:55,6,Yes,No,No,Pop,Yes,Yes,6,6,8,0,Improve
+829,10/25/2022,15:20:29,1,Yes,No,No,Video game music,Yes,No,10,10,8,4,Worsen
+830,10/25/2022,20:50:27,18,Yes,No,No,EDM,Yes,No,9,8,5,10,Improve
+831,10/25/2022,19:45:54,1,Yes,No,No,Metal,Yes,Yes,0,0,0,0,No effect
+832,10/25/2022,7:24:08,7,Yes,Yes,No,Country,Yes,No,7,3,1,2,Improve
+833,10/25/2022,13:13:32,0.5,No,No,No,Pop,Yes,No,6,2,2,0,Improve
+834,10/25/2022,13:15:26,2,Yes,No,No,R&B,Yes,Yes,7,6,4,6,Improve
+835,10/25/2022,14:37:28,2,Yes,Yes,No,Rock,Yes,Yes,7,6,0,9,Improve
+836,11/8/2022 0:00,10:26:00,1,Yes,Yes,No,K pop,Yes,Yes,3,2,2,5,Improve
+837,11/8/2022 0:00,11:24:00,6,Yes,No,Yes,Rap,Yes,No,2,2,2,2,Improve
+838,11/8/2022 0:00,5:31:00,5,Yes,Yes,No,Classical,No,No,2,3,2,1,Improve
+839,11/7/2022 0:00,7:44:00,0.25,Yes,No,No,Gospel,No,Yes,1,0,0,0,Improve
+840,11/7/2022 0:00,8:02:00,1,No,Yes,Yes,Gospel,No,No,6,2,8,0,Improve
+841,11/7/2022 0:00,8:36:00,1,Yes,No,Yes,Video game music,No,No,4,5,7,0,No effect
+842,11/7/2022 0:00,9:05:00,5,Yes,No,No,Hip hop,No,Yes,10,7,0,0,Improve
+843,11/7/2022 0:00,9:07:00,1,No,No,No,Pop,No,No,4,2,1,0,Improve
+844,11/7/2022 0:00,9:14:00,1,Yes,No,No,Hip hop,No,No,7,6,2,3,Improve
+845,11/7/2022 0:00,9:24:00,7,Yes,No,No,K pop,Yes,Yes,3,2,8,0,Improve
+846,11/7/2022 0:00,9:44:00,3,No,Yes,Yes,Hip hop,Yes,Yes,10,7,4,3,Improve
+847,11/7/2022 0:00,10:38:00,3,Yes,No,No,K pop,Yes,Yes,4,0,0,0,No effect
+848,11/7/2022 0:00,11:11:00,7,Yes,No,No,Rock,No,No,7,7,0,0,Improve
+849,11/11/2022 0:00,12:08:00,8,Yes,No,No,EDM,No,Yes,6,7,4,1,Improve
+850,11/11/2022 0:00,12:20:00,2,Yes,No,No,Metal,Yes,No,7,6,2,7,Improve
+851,11/11/2022 0:00,12:32:00,2,Yes,No,No,K Pop,Yes,Yes,6,5,8,0,Improve
+852,11/11/2022 0:00,1:03:00,2,Yes,No,No,Rock,Yes,Yes,10,10,2,3,Improve
+853,11/11/2022 0:00,1:59:00,2,Yes,No,No,K pop,Yes,Yes,7,6,5,1,Improve
+854,11/11/2022 0:00,2:19:00,4,No,No,No,Video game music,Yes,Yes,3,0,0,0,Improve
+855,11/11/2022 0:00,3:06:00,8,Yes,No,No,Rock,Yes,Yes,8,2,1,0,No effect
+856,11/11/2022 0:00,3:27:00,4,Yes,No,No,Rap,Yes,No,7,6,6,5,Improve
+857,11/11/2022 0:00,3:32:00,1,No,No,No,Rock,Yes,No,3,2,5,0,No effect
+858,11/11/2022 0:00,3:36:00,5,No,No,No,Metal,No,Yes,8,2,1,0,Improve
+859,11/11/2022 0:00,4:06:00,2,Yes,No,No,Rock,No,No,7,7,2,4,Improve
+860,11/11/2022 0:00,4:56:00,1,No,No,No,Country,No,No,5,1,1,1,Improve
+861,11/11/2022 0:00,4:56:00,5,Yes,No,No,Rock,No,No,1,2,1,0,No effect
+862,11/11/2022 0:00,5:21:00,8,Yes,No,No,Rock,Yes,No,2,1,2,2,Improve
+863,11/11/2022 0:00,5:40:00,2,Yes,No,No,Classical,No,No,5,2,4,0,Improve
+864,11/11/2022 0:00,5:49:00,2,Yes,No,No,Pop,No,No,7,2,1,0,Improve
+865,11/11/2022 0:00,6:20:00,1,Yes,No,No,Folk,No,Yes,10,10,7,8,Improve
+866,11/11/2022 0:00,6:41:00,8,Yes,No,No,Pop,Yes,Yes,7,2,1,6,Improve
+867,11/11/2022 0:00,7:13:00,8,Yes,No,No,Pop,Yes,No,6,4,1,0,Improve
+868,11/11/2022 0:00,7:13:00,1,No,No,No,EDM,Yes,No,5,9,6,1,Improve
+869,11/11/2022 0:00,7:29:00,1,Yes,Yes,No,Video game music,No,No,7,5,7,0,Improve
+870,11/11/2022 0:00,7:53:00,8,Yes,No,No,Jazz,Yes,Yes,7,6,7,4,Improve
+871,11/11/2022 0:00,8:05:00,2,Yes,No,No,Rock,No,No,0,0,0,0,Improve
+872,11/11/2022 0:00,8:06:00,6,Yes,No,No,R&B,No,Yes,3,5,0,2,No effect
+873,11/11/2022 0:00,9:15:00,3,No,Yes,Yes,Metal,Yes,Yes,8,8,5,2,Improve
+874,11/11/2022 0:00,9:25:00,4,Yes,Yes,No,EDM,No,Yes,8,7,10,6,Improve
+875,11/11/2022 0:00,9:54:00,2,Yes,No,No,Rock,No,Yes,2,4,5,2,Improve
+876,11/11/2022 0:00,2:09:00,3,Yes,Yes,No,Classical,No,No,7,3,9,2,Improve
+877,11/11/2022 0:00,2:31:00,4,No,No,Yes,Pop,Yes,No,8,7,4,4,Improve
+878,11/11/2022 0:00,3:24:00,2,No,No,No,Jazz,Yes,Yes,0,0,0,5,No effect
+879,11/11/2022 0:00,4:14:00,1,Yes,No,No,Pop,No,Yes,8,6,9,8,Improve
+880,11/11/2022 0:00,4:36:00,1,Yes,No,No,Video game music,Yes,Yes,4,2,3,2,Improve
+881,11/11/2022 0:00,7:20:00,1,No,No,No,Rock,No,No,3,2,2,2,No effect
+882,11/11/2022 0:00,7:39:00,2,Yes,Yes,No,Gospel,No,No,6,4,10,0,Improve
+883,11/11/2022 0:00,9:14:00,7,Yes,No,No,Pop,Yes,Yes,8,8,10,0,Improve
+884,11/11/2022 0:00,9:19:00,5,Yes,No,No,Pop,Yes,Yes,5,5,5,5,Improve
+885,11/11/2022 0:00,10:18:00,3,Yes,No,No,Rock,No,No,10,8,6,2,No effect
+886,12/2/2022 0:00,3:54:00,1,No,No,No,Rock,No,No,0,0,7,0,Improve
+887,12/2/2022 0:00,5:27:00,6,Yes,Yes,Yes,Rock,Yes,Yes,8,8,10,0,Improve
+888,12/2/2022 0:00,7:09:00,2,No,No,No,Rock,Yes,No,8,2,0,0,No effect
+889,12/2/2022 0:00,8:53:00,3,Yes,Yes,Yes,Metal,Yes,No,7,8,4,10,Improve
+890,12/2/2022 0:00,10:20:00,1.5,Yes,No,No,Country,No,No,0,2,0,1,Improve
+891,12/2/2022 0:00,10:41:00,4,Yes,Yes,No,Pop,Yes,No,3,5,4,0,Improve
+892,12/2/2022 0:00,12:26:00,2,Yes,Yes,No,Pop,Yes,Yes,5,2,3,1,Improve
+893,12/2/2022 0:00,1:52:00,2,Yes,No,No,Folk,Yes,No,6,1,0,0,Improve
+894,12/2/2022 0:00,2:08:00,2,No,No,No,Rap,Yes,Yes,6,3,4,2,Improve
+895,12/2/2022 0:00,2:35:00,1,Yes,Yes,Yes,Rock,Yes,No,5,6,8,2,Improve
+896,12/2/2022 0:00,3:52:00,3,Yes,No,No,K pop,Yes,Yes,8,4,7,5,Improve
+897,12/2/2022 0:00,3:52:00,3,Yes,No,No,Pop,Yes,No,1,1,2,3,Improve
+898,12/2/2022 0:00,4:00:00,2,No,Yes,No,Rock,Yes,No,8,3,1,3,Improve
+899,12/2/2022 0:00,4:24:00,6,Yes,No,Yes,Rap,Yes,No,3,3,0,0,Improve
+900,12/2/2022 0:00,5:14:00,3,Yes,No,No,Classical,No,Yes,0,0,0,0,No effect
+901,12/2/2022 0:00,6:01:00,3,Yes,No,No,Pop,No,No,5,4,2,0,No effect
+902,12/2/2022 0:00,6:23:00,2,Yes,No,No,R&B,Yes,No,2,4,0,0,Improve
+903,12/2/2022 0:00,6:37:00,2,Yes,No,No,Video game music,No,No,4,6,0,2,Improve
+904,12/2/2022 0:00,8:49:00,2,Yes,No,Yes,Pop,Yes,No,5,7,2,0,Improve
+905,12/2/2022 0:00,8:58:00,3,Yes,No,No,Rock,Yes,Yes,4,0,7,0,No effect
+906,12/2/2022 0:00,9:08:00,4,Yes,No,No,Pop,Yes,Yes,10,8,6,2,No effect
+907,12/2/2022 0:00,9:52:00,2,Yes,Yes,Yes,R&B,Yes,No,3,3,1,0,Improve
+908,12/3/2022 0:00,2:32:00,5,Yes,Yes,No,Rock,Yes,No,8,7,2,1,Improve
+909,12/3/2022 0:00,5:01:00,2,Yes,No,No,R&B,No,No,3,3,0,3,Improve
+910,12/3/2022 0:00,5:22:00,1,Yes,No,No,K pop,Yes,Yes,4,5,2,5,Improve
+911,12/3/2022 0:00,9:22:00,7,Yes,No,No,Folk,Yes,Yes,10,10,8,10,Improve
+912,12/3/2022 0:00,10:07:00,3,Yes,Yes,No,K pop,No,Yes,10,2,7,8,Improve
+913,12/3/2022 0:00,10:48:00,3,No,Yes,Yes,Metal,Yes,No,9,6,8,5,Improve
+914,12/3/2022 0:00,11:15:00,4,Yes,No,No,R&B,Yes,Yes,6,4,1,6,Improve
+915,12/3/2022 0:00,11:25:00,3,Yes,No,No,Pop,Yes,No,3,4,6,8,Improve
+916,12/3/2022 0:00,1:07:00,1,Yes,No,No,Gospel,No,No,10,10,10,0,Improve
+917,12/3/2022 0:00,3:41:00,7,Yes,No,No,Video game music,Yes,No,4,8,8,4,No effect
+918,12/3/2022 0:00,4:26:00,1,No,No,No,R&B,Yes,Yes,3,0,0,0,Improve
+919,12/3/2022 0:00,5:54:00,4,Yes,No,No,R&B,Yes,Yes,1,0,0,0,Improve
+920,12/3/2022 0:00,8:38:00,4,Yes,No,No,Classical,Yes,No,5,6,7,7,No effect
+921,12/3/2022 0:00,9:29:00,3,Yes,No,No,Video game music,Yes,Yes,7,0,3,1,No effect
+922,12/3/2022 0:00,9:44:00,2,Yes,No,No,Pop,No,No,10,8,8,9,Improve
+923,12/3/2022 0:00,10:32:00,4,Yes,Yes,No,R&B,Yes,Yes,3,0,3,4,Improve
+924,12/3/2022 0:00,2:08:00,5,Yes,No,No,EDM,Yes,Yes,1,0,0,1,No effect
+925,12/3/2022 0:00,6:29:00,6,Yes,No,No,Pop,No,No,6,6,0,0,Improve
+926,12/3/2022 0:00,8:21:00,1,Yes,No,No,Video game music,Yes,No,4,3,4,0,Improve
+927,12/3/2022 0:00,12:10:00,1,No,No,No,Pop,No,No,6,4,0,0,Improve
+928,12/3/2022 0:00,9:56:00,3,Yes,No,No,Rock,Yes,No,2,6,3,0,Worsen
+929,12/10/2022 0:00,9:40:00,1,Yes,No,No,Pop,Yes,Yes,8,3,3,3,Improve
+930,12/10/2022 0:00,10:12:00,8,No,No,No,Rock,No,Yes,8,10,7,3,No effect
+931,12/10/2022 0:00,11:15:00,1,No,Yes,No,Rock,No,No,1,0,0,1,Improve
+932,12/10/2022 0:00,11:19:00,8,Yes,Yes,Yes,Rock,Yes,No,8,6,6,8,Improve
+933,12/10/2022 0:00,12:36:00,1,Yes,No,No,Pop,Yes,Yes,6,3,1,7,Improve
+934,12/10/2022 0:00,1:26:00,1,No,Yes,No,Rap,Yes,Yes,2,0,3,0,Improve
+935,12/10/2022 0:00,2:43:00,10,Yes,Yes,Yes,Metal,No,Yes,0,0,0,0,No effect
+936,12/10/2022 0:00,3:53:00,10,Yes,Yes,Yes,Rock,Yes,No,10,10,6,6,Improve
+937,12/10/2022 0:00,7:27:00,5,Yes,No,No,Rock,Yes,Yes,3,0,0,1,Improve
+938,12/10/2022 0:00,9:16:00,10,Yes,No,No,Rock,Yes,Yes,7,9,10,0,Improve
+939,12/10/2022 0:00,12:32:00,2,Yes,Yes,No,Classical,Yes,Yes,8,7,6,2,Improve
+940,12/10/2022 0:00,2:17:00,6,Yes,No,No,R&B,No,No,2,0,10,10,Improve
+941,12/10/2022 0:00,7:43:00,2,Yes,No,No,R&B,Yes,No,10,7,9,3,No effect
+942,12/10/2022 0:00,9:19:00,3,Yes,No,No,Pop,No,Yes,6,0,0,0,Improve
+943,12/11/2022 0:00,3:06:00,8,Yes,Yes,Yes,Gospel,Yes,Yes,3,0,2,2,Improve
+944,12/11/2022 0:00,4:56:00,8,Yes,No,No,Lofi,Yes,Yes,6,5,9,8,Improve
+945,12/11/2022 0:00,6:12:00,8,Yes,No,No,Rock,Yes,No,7,6,5,8,Improve
+946,12/11/2022 0:00,6:14:00,8,Yes,Yes,No,Metal,Yes,No,10,7,8,6,Improve
+947,12/11/2022 0:00,7:16:00,12,Yes,Yes,No,Latin,Yes,No,0,3,9,5,No effect
+948,12/11/2022 0:00,9:30:00,6,Yes,No,No,EDM,Yes,Yes,0,2,1,5,Improve
+949,12/11/2022 0:00,11:40:00,4,Yes,Yes,No,R&B,No,Yes,2,0,0,0,No effect
+950,12/11/2022 0:00,7:19:00,8,Yes,No,No,Jazz,Yes,No,2,2,4,0,No effect
+951,12/11/2022 0:00,7:48:00,2,No,No,No,Pop,No,No,5,6,3,4,No effect
+952,12/11/2022 0:00,11:15:00,1,No,No,No,Rock,No,No,0,0,1,0,No effect
+953,12/11/2022 0:00,11:25:00,2,Yes,Yes,No,Hip hop,Yes,No,5,4,3,7,Improve
+954,12/11/2022 0:00,6:44:00,3,Yes,Yes,No,K pop,Yes,Yes,2,7,0,0,Improve
+955,12/11/2022 0:00,10:31:00,1,Yes,No,No,Video game music,Yes,Yes,0,6,0,4,Improve
+956,12/11/2022 0:00,11:34:00,0,No,No,No,Classical,Yes,Yes,0,0,0,0,Improve
+957,12/15/2022,2:59:00,2,Yes,Yes,Yes,Rap,Yes,Yes,7,5,1,3,Improve
+958,12/15/2022,6:07:00,0.1,Yes,Yes,No,Folk,No,Yes,7,5,3,1,No effect
+959,12/15/2022,9:06:00,2,Yes,No,No,Rock,No,Yes,3,3,1,8,No effect
+960,12/15/2022,10:08:00,12,Yes,No,No,Rock,Yes,Yes,7,10,4,7,Worsen
+961,12/15/2022,9:39:00,1,Yes,No,No,Pop,Yes,No,3,2,3,0,Improve
+962,12/15/2022,11:45:00,1,Yes,No,No,Rock,No,No,5,1,1,9,Improve
+963,12/15/2022,12:09:00,3,Yes,No,No,Rock,No,No,8,9,4,10,Improve
+964,12/15/2022,12:14:00,2,Yes,No,No,Metal,Yes,Yes,4,8,0,0,Improve
+965,12/15/2022,12:15:00,2,Yes,No,No,Rock,Yes,Yes,7,9,7,0,Improve
+966,12/15/2022,12:46:00,3,Yes,Yes,No,Rock,Yes,No,1,5,6,4,No effect
+967,12/15/2022,1:31:00,1,No,No,No,Jazz,Yes,Yes,3,2,1,0,No effect
+968,12/15/2022,1:33:00,3,Yes,Yes,Yes,Jazz,Yes,Yes,6,8,0,0,Improve
+969,12/15/2022,1:46:00,3,Yes,No,No,Rock,No,No,6,3,6,0,Improve
+970,12/15/2022,1:55:00,5,Yes,Yes,Yes,Metal,Yes,Yes,7,4,8,0,Improve
+971,12/15/2022,2:20:00,8,Yes,No,No,Metal,Yes,No,2,6,9,1,No effect
+972,12/15/2022,2:27:00,4,Yes,No,No,Hip hop,Yes,Yes,8,5,3,8,Improve
+973,12/15/2022,2:29:00,5,Yes,No,Yes,Rock,Yes,Yes,3,3,0,0,Improve
+974,12/15/2022,2:42:00,3,Yes,No,No,Rap,No,Yes,7,5,3,3,Improve
+975,12/15/2022,2:44:00,4,Yes,No,No,Rock,Yes,Yes,4,8,2,3,Improve
+976,12/15/2022,3:07:00,1,Yes,Yes,No,Classical,No,No,3,0,0,5,Improve
+977,12/15/2022,3:12:00,4,Yes,No,No,Metal,Yes,Yes,10,7,3,2,Improve
+978,12/15/2022,4:24:00,1,No,No,No,Rock,Yes,Yes,10,4,8,0,Improve
+979,12/15/2022,6:07:00,2,Yes,Yes,No,Video game music,No,Yes,2,2,0,0,Improve
+980,12/15/2022,6:09:00,6,Yes,No,No,Folk,Yes,No,8,7,7,3,Improve
+981,12/15/2022,6:10:00,2,No,No,No,Rock,No,No,10,5,2,8,Improve
+982,12/15/2022,6:54:00,1,Yes,No,No,Rock,Yes,No,9,10,10,6,No effect
+983,12/15/2022,7:03:00,4,Yes,Yes,No,Metal,Yes,No,5,2,1,6,Improve
+984,12/15/2022,7:13:00,8,Yes,Yes,Yes,Classical,No,No,4,8,9,1,Improve
+985,12/15/2022,7:41:00,2,Yes,No,No,Metal,Yes,Yes,7,8,5,3,Improve
+986,12/15/2022,8:07:00,2,Yes,No,No,EDM,Yes,Yes,2,2,0,3,No effect
+987,12/15/2022,10:24:00,10,Yes,No,Yes,K pop,Yes,Yes,10,3,0,4,Improve
+988,12/15/2022,10:26:00,0,No,No,No,Metal,No,No,10,10,10,9,Improve
+989,12/15/2022,11:09:00,6,Yes,No,No,Folk,Yes,Yes,3,7,7,4,No effect
+990,12/15/2022,11:16:00,3,Yes,No,No,EDM,Yes,Yes,7,5,7,7,Improve
+991,12/15/2022,11:56:00,2,Yes,No,No,Metal,No,Yes,7,4,8,8,Improve
+992,12/17/2022,0:48:14,0.25,No,Yes,No,Classical,Yes,Yes,7,9,4,5,Improve
+993,12/17/2022,1:55:43,4,Yes,No,No,EDM,Yes,Yes,4,7,1,3,Improve
+994,12/17/2022,1:57:14,2,No,No,No,Metal,Yes,No,5,9,9,6,Improve
+995,12/17/2022,2:17:14,2,Yes,No,No,Pop,Yes,No,5,4,10,7,No effect
+996,12/17/2022,4:45:33,3,Yes,No,No,Pop,No,No,7,2,0,1,Improve
+997,12/17/2022,5:57:53,6,Yes,No,No,Folk,Yes,Yes,8,6,0,2,Improve
+998,12/17/2022,7:06:03,3,No,No,No,Metal,Yes,No,1,3,10,0,No effect
+999,12/17/2022,7:12:07,2,Yes,No,No,Rock,Yes,No,8,10,10,2,Worsen
+1000,12/17/2022,8:05:59,5,Yes,Yes,No,Folk,Yes,Yes,4,7,6,0,No effect
+1001,12/17/2022,8:36:33,4,No,No,No,Pop,No,Yes,9,6,3,0,No effect
+1002,12/17/2022,9:29:29,4,Yes,No,No,Rock,Yes,No,10,7,4,4,Improve
+1003,12/17/2022,11:16:37,0,No,No,No,Rock,No,No,1,2,2,0,No effect
+1004,12/17/2022,13:18:32,12,Yes,Yes,Yes,Rock,Yes,No,7,10,0,8,Improve
+1005,12/17/2022,13:58:18,0.5,No,No,No,Pop,No,No,10,2,1,10,Worsen
+1006,12/17/2022,16:16:16,1,Yes,No,No,Rock,No,No,2,1,2,2,Improve
+1007,12/17/2022,16:34:56,3,Yes,No,No,R&B,Yes,Yes,3,10,0,0,No effect
+1008,12/17/2022,22:19:10,12,No,No,No,Rock,Yes,Yes,7,10,2,0,Improve
+1009,12/17/2022,23:06:06,4,Yes,Yes,Yes,Metal,No,No,4,2,0,0,Improve
+1010,12/19/2022,0:09:08,3,Yes,No,No,R&B,No,No,4,2,5,3,Improve
+1011,12/19/2022,0:58:57,1,Yes,No,No,Metal,Yes,Yes,6,8,7,0,Improve
+1012,12/19/2022,7:07:15,4,No,No,No,Folk,Yes,Yes,8,6,4,0,Improve
